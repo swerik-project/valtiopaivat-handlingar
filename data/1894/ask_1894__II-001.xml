@@ -1,0 +1,1834 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Finnish parliamentary document: ask 1894, None number II-001</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority>SWERIK Project, 2023-2027</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Finnish parliamentary document: ask 1894, None number II-001</title>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>No correction of source texts was performed.</p>
+        </correction>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div type="preface">
+        <head>ask_1894__II-001</head>
+        <docDate when="1894-01-01">1894-01-01</docDate>
+      </div>
+    </front>
+    <body>
+      <div>
+        <pb facs="https://swerik-project.github.io/valtiopaivat-handlingar-pdf/1894/ask_1894__II-001-0001.pdf"/>
+        <p xml:id="i-P4dRhPGqPCk875ew9WmSx4">
+          V. M. — Esit. N:o 16.
+        </p>
+        <p xml:id="i-LsbWFTBus6kpepxYrgfHFw">
+          Laki- ja Talousvaliokunmnan ehdotus niiden eriäväin päätösten
+          yhteensovittamiseksi, mihin säädyt ovat tulleet käsitellessään
+          Valiokunnan mietintöä N:o 8 armollisen esityksen johdosta, joka
+          koskee säästöpankkeja.
+        </p>
+        <p xml:id="i-U8SHHjLgTDB1Dq2XvH1RmE">
+          Valiokunnan saamain pöytäkirjanotteiden mukaan on Talonpoikaissääty
+          hyljännyt Valiokunnan mietinnön ja siinä olevan asetusehdotuksen
+          kokonaisuudessaan, jota vastoin muut säädyt ovat päättäneet hyväksyä
+          Valiokunnan ehdotuksen asiata koskevaksi asetukseksi, paitsi alla
+          mainituissa kohdissa, nimittäin
+        </p>
+        <p xml:id="i-WFEi2fQ4iRuFe4wmnYqxxB">
+          38
+        </p>
+        <p xml:id="i-2gr2vFcyWsUhJSB1tiULK9">
+          Ritaristo ja Aateli on tämän pykälän 1:sen momentin loppulauseen
+          hyväksynyt seuraavalla tavalla kuuluvaksi: «kuitenkin olkoon myös
+          kunta oikeutettu perustamaan säästöpankin».
+        </p>
+        <p xml:id="i-LJyhTV16iBvWrFvd2xgrfg">
+          Pappissääty on hyväksynyt pykälän muuttamatta, paitsi että Säädyn
+          mielestä tässä samoin kuin seuraavissakin pykälissä, missä ruotsalaisessa
+          tekstissä sanat »allmänna tidningar» esiintyvät, nämä olisivat
+          vaihdettavat sanoiksi »officiela tidningar».
+        </p>
+        <p xml:id="i-9BSWS6z7EwEuCYWGRSXzMv">
+          Porvarissääty on muuttanut sanan «maalaiskunta» sanaksi «kunta».
+        </p>
+        <p xml:id="i-MTTRbAWQe69CtaP6aG3qMH">
+          Koska Ritariston ja Aatelin sekä Porvarissäädyn päätökset sikäli
+          ovat yhtäpitäviä, että molemmat laajentavat kun-
+        </p>
+        <p xml:id="i-DSZUtCmmmfySMFG6VoqXYz">
+          Laki- ja Talousvaliokunnan mietintö N:o 8.
+        </p>
+        <pb facs="https://swerik-project.github.io/valtiopaivat-handlingar-pdf/1894/ask_1894__II-001-0002.pdf"/>
+        <p xml:id="i-Rm9xtJ1pCZHFS1siMeokpE">
+          2 V. M. — Esit. N:o 16.
+        </p>
+        <p xml:id="i-Q3dw7JGG5kw6JCMhfTWjKj">
+          tain oikeutta säästöpankkien perustamiseen, ja kun Talonpoikaissäätykin,
+          lakiehdotuksen hylkäämällä, on ollut vasten rajoittavia määräyksiä
+          tässä asiassa, on Porvarissäädyn päätös pantu yhteensovituksen
+          pohjaksi, ja sen tähden sekä kun muissa säädyissä ei ole tehty
+          Pappissäädyn päättämää muutosta, Valiokunta ehdottaa
+        </p>
+        <p xml:id="i-25yTzqh5BEGHF3t91uuYaN">
+          että Valtiosäädyt, hyväksymällä tämän
+        </p>
+        <p xml:id="i-CSNVKrBENDT99FqXwbttya">
+          pykälän muuten, hyväksyisivät pykälän 1:sen
+        </p>
+        <p xml:id="i-FMKzCCKbtrWp1LjAKXTsGm">
+          momentin loppulauseen seuraavalla tavalla
+        </p>
+        <p xml:id="i-TH9SDKv9f1KG8hC5pNoja9">
+          kuuluvaksi: , kuitenkin olkoon myös kunta
+        </p>
+        <p xml:id="i-r4Eva8P53QfUAhBE37bKS">
+          äi oikeutettu, säästäväisyyden edistämiseksi kun- - nassa, perustamaan
+          säästöpankin*.
+        </p>
+        <p xml:id="i-Eefi2FJmpNsrgkG61dMwpy">
+          6 &amp;.
+        </p>
+        <p xml:id="i-3mBkzN3btFZBT1hnBKrKzy">
+          Pitaristo ja Aateli on päättänyt 2:sesta momentista jättää pois
+          sanat «eikä viittäkymmentä isompi» ja tämän pykälän viimeisen
+          momentin sijaan hyväksynyt vastaavan momentin armollisesta esityksestä.
+        </p>
+        <p xml:id="i-Ecw25TDofzUiBJFovpFSt9">
+          Pappissääty on hyväksynyt pykälän. -
+        </p>
+        <p xml:id="i-4zHwE96MJVUuoGtVFRAWUx">
+          Porvarissääty on tehnyt samanlaisen päätöksen kuin Ritaristo
+          ja Aateli.
+        </p>
+        <p xml:id="i-Q3AdMf4ef7oCS4rCorCovK">
+          Samasta syystä, joka lausuttiin säätyjen päätösten yhteensovituksen
+          pohjasta mitä 3 S:ään tulee, ehdottaa Valiokunta
+        </p>
+        <p xml:id="i-82JLLmcySd37tyJth9mQY2">
+          että Valtiosäädyt hyväksyisivät 2:sen momentin jättämällä siitä
+          pois sanat ,eikä viittäkymmeutä isompi* sekä viimeisen momentin
+          sellaisena kuin se kuuluu armollisessa esityksessä.
+        </p>
+        <p xml:id="i-CioYZdUpvKsW5JBvPJmz1z">
+          10 8.
+        </p>
+        <p xml:id="i-LxY9ASfEndLSgxHevxvYtu">
+          Pitaristo ja Aateli on 1:sestä momentista pyyhkinyt sanan «julkisen»
+          pois sanan «pankkilaitoksen» - edeltä. Laki- ja Talousvaliokunnan
+          mietintö N:o 8.
+        </p>
+        <pb facs="https://swerik-project.github.io/valtiopaivat-handlingar-pdf/1894/ask_1894__II-001-0003.pdf"/>
+        <p xml:id="i-RyNYgiVbJaaNvAiYzwUwFu">
+          V. M. — Esit. N:o 16. 3
+        </p>
+        <p xml:id="i-XUy8sf3Gj4MVbmfA23F8xM">
+          Pappissääty on hyväksynyt momentin Valiokunnan ehdotuksen mukaan.
+        </p>
+        <p xml:id="i-3bM4V2o1hKAESD46gkNEqZ">
+          Porvarissääty on lähettänyt takaisin pykälän, jotta se rajoitus,
+          joka 2:seen momenttiin on ehdotettu niiden kiinnitettyjen velkakirjain
+          arvoon, joita kassareservissä saisi olla, jätettäisiin pois ja
+          pykälän 1:nen ja 2:nen momentti yhdistettäisiin yhdeksi momentiksi,
+          joka olisi kuuluva niinkuin säästöpankkikomitean tekemän asetusehdotuksen
+          13 $.
+        </p>
+        <p xml:id="i-AbmzSPKZ3pMPxn6WeJamGd">
+          Koska Ritariston ja Aatelin päättämä muutos näyttää parantavan
+          sanamuodostusta sekä kun kaksi säätyä on muuten hyväksynyt pykälän
+          ja tämä myös lähemmin liittyy armolliseen esitykseen, saa Valiokunta
+          ehdottaa
+        </p>
+        <p xml:id="i-2BhcPyhfkjz957RaRf4TbQ">
+          että Valtiosäädyt hyväksyisivät pykälän Valiokunnan ehdottaman
+          sanamuodostuksen mukaan, kuitenkin jättäen 1:sestä momentista
+          pois sanan , julkisen".
+        </p>
+        <p xml:id="i-MhUzWbpPBFvTwUbneXnpau">
+          12 &amp;.
+        </p>
+        <p xml:id="i-G9EpH1nn2pyk55dz23beJe">
+          Ritaristo ja Aateli on hyväksynyt pykälän Valiokunnan ehdotuksen
+          mukaan.
+        </p>
+        <p xml:id="i-BgnNbzg2Uyjo5STUT1Lgw2">
+          Pappissääty on päättänyt pykälässä säilyttää ainoastaan viimeisen
+          momentin ja muuten siirtää sen hallinnolliseen julistukseen.
+        </p>
+        <p xml:id="i-ULi8HoXmjUrZWqHErnFPgu">
+          Porvarissääty on päättänyt pykälästä poistaa sanan »kassakirjaa»
+          jäljessä toisella rivillä olevat sanat »jota on kaksi eri henkilöiden
+          pidettävää kappaletta».
+        </p>
+        <p xml:id="i-4MzStkVnWxXaEaBvM1ZNYD">
+          Kun kolme säätyä on pääasiassa hyväksynyt tämän pykälän ja ainoastaan
+          yksi sääty päättänyt, että säästöpankin kirjoja koskevat määräykset
+          olisivat pantavat armollisessa esityksessä olevan julistukseen,
+          ehdottaa Valiokunta
+        </p>
+        <p xml:id="i-Hx5BVzUr5jPvYgRFp2cSfD">
+          että Valtiosäädyt hyväksyisivät tämän pykälän Valiokunnan ehdotuksen
+          mukaan.
+        </p>
+        <p xml:id="i-RF252bQVCJeR39DQU3ZfY5">
+          Laki- ja Talousvaliokunnan mietintö N:o 8.
+        </p>
+        <pb facs="https://swerik-project.github.io/valtiopaivat-handlingar-pdf/1894/ask_1894__II-001-0004.pdf"/>
+        <p xml:id="i-DMNPfGKz1yERuKy4quUZYm">
+          4 V. M. — Esit. N:o 16. 16 8.
+        </p>
+        <p xml:id="i-7M1cpThuS2L1xG4AJgAxiN">
+          RBitaristo ja Aateli on päättänyt sanat »ei kuitenkaan semmoisiin,
+          joista kunta tahi seurakunta on velvollinen pitämään huolta» jätettäviksi
+          pois. Mutta kun Pappissääty ja Porvarissääty ovat tässä kohdassa
+          hyväksyneet Valiokunnan mietinnön, ehdottaa Valiokunta
+        </p>
+        <p xml:id="i-Nc5PAw87T8SyuhMShvuxy8">
+          että tämä pykälä hyväksyttäisiin muuttamatta.
+        </p>
+        <p xml:id="i-XWMf5jqawxGNSGWzBYe1HX">
+          22 S.
+        </p>
+        <p xml:id="i-9PMPgrPCBLJpJryYkNDZTC">
+          Pitaristo ja Aateli on 2:sen ja 3:nen momentin sijaan hyväksynyt
+          2:sen momentin armollisen esityksen 19 $:stä.
+        </p>
+        <p xml:id="i-53HGnaSStCAz7icmmXJaGU">
+          Pappissääty on Valiokunnan mietinnön 2:sen, 3:nen ja 4:nen momentin
+          sijaan hyväksynyt 2:sen ja 3:nen momentin armollisen esityksen
+          19 &amp;:stä.
+        </p>
+        <p xml:id="i-6bXigaK6wWbXRxfRoxshqu">
+          Porvarissääty on lähettänyt tämän pykälän takaisin siihen suuntaan
+          muutettavaksi että, säilytettynä viimeinen momentti, sellaisena
+          kuin se kuuluu armollisen esityksen 19 S:ssä, siinä säädettäisiin,
+          että vastakirjaan on merkittävä säästöönpanijan nimi, mutta että
+          säästöpankki on oikeutettu maksamaan rahat sille, joka vastakirjan
+          haltijana on ja sen pankissa esiintuo, jollei sitä ehtoa ole tehty,
+          että ainoastaan säästöönpanija tahi se, joka näyttää olevansa
+          hänen oikeudenhaltijansa, saa ottaa pois rahat, joka ehto pankin
+          hallituksen kuitenkin tulisi vastakirjaan merkitä.
+        </p>
+        <p xml:id="i-S5aimvkzSkZW7cSXMqgDg">
+          Koska Ritaristo ja Aateli sekä Pappissääty ovat Valiokunnan ehdotuksen
+          2:sen ja 3:nen momentin sijaan panneet 2:sen momentin armollisen
+          esityksen 19 &amp;:stä, jonka päätöksen mukainen Porvarissäädynkin
+          pääasiassa on, ja kun Pappissäädynkin päätös, että Valiokunnan
+          ehdotuksen viimeisen momentin sijaan on pantava 3:s momentti armollisen
+          esityksen 19 &amp;:stä, näyttää perustuvan siihen päätökseen, minkä
+          Sääty on tehnyt 12 $.n suhteen, esittää Valiokunta
+        </p>
+        <p xml:id="i-WjqKbKviWM4iVS6rtsTXuM">
+          Laki- ja Talousvaliokunnan mietintö N:o 8.
+        </p>
+        <pb facs="https://swerik-project.github.io/valtiopaivat-handlingar-pdf/1894/ask_1894__II-001-0005.pdf"/>
+        <p xml:id="i-5Nsa8qK1d23F7MGGMc1hYY">
+          kunta
+        </p>
+        <p xml:id="i-rpd8zo7hNfyRBpbLQGZyd">
+          22 S:ään
+        </p>
+        <p xml:id="i-TCsNPPG1WfQnydeiUyWig5">
+          V. M. — Esit. N:o 16. 5
+        </p>
+        <p xml:id="i-P3R5az8Rh7uS4WxdJJLEL2">
+          että Valtiosäädyt hyväksyisivät 22 $:n näin kuuluvaksi :
+        </p>
+        <p xml:id="i-KjAYGnMV3mPRpyAB9cCB4s">
+          Kun joku ensi kertaa panee rahoja säästöpankkiin, annettakoon
+          hänelle ilmaiseksi järjestysnumerolla varustettu vastakirja, johon
+          säästöpankin säännöt on painettu. Siihen vastakirjaan merkitään
+          myös ehto, joka 21 $:n mukaan tehdään.
+        </p>
+        <p xml:id="i-Re8rzFHUKfu4eLm7JUQgdF">
+          Säästöpankin = tallessa olevia rahoja annetaan sille, joka on
+          vastakirjan haltija ja sen esiintuo, ellei rahoja ole pankkiin
+          pantu sillä ehdolla, että ne saa ottaa pois ainoastaan joku vastakirjassa
+          niiden ottajaksi mainittu henkilö, jolloin ainoastaan hänellä
+          tahi hänen oikeudenhaltijoillaan on valta irtisinoa ja nostaa
+          tallella oleva määrä,
+        </p>
+        <p xml:id="i-494knsHHae5SyBjMdQyLBX">
+          Kun vano tahi otto tehdään, merkitään määrä vastakirjaan, jonka
+          ohessa kaksi säästöpankin virkamiestä tahi hallituksenjäsentä
+          merkitsee sen kumpikin eri kappaleesensa säästöpankin kassakirjaan.
+        </p>
+        <p xml:id="i-KGLvpeZXnsDxhoQUsfVgxe">
+          23 8.
+        </p>
+        <p xml:id="i-VfnX5pnmot7Szenp6JbQkz">
+          tehdyn muutoksen vuoksi ehdottaa Valio-
+        </p>
+        <p xml:id="i-Wn9xqBSm6GGmwtCXqF5FCL">
+          että 23 $ saisi seuraavan muutetun sanamuodostuksen:
+        </p>
+        <p xml:id="i-8LvRwDAQgcqVMx3aHfDfoZ">
+          Jos 22 $:ssä mainitulla ehdolla on rahoja vaimon varalla säästöpankissa
+          tahi alaikäinen, joka on täyttänyt viisitoista vuotta, on rahoja
+          sinne säästöön pannut, älköön edusmies olko oikeutettu rahoja
+          irtisanomaan ja nostamaan ilman vaimon tahi alaikäisen suostumusta.
+        </p>
+        <p xml:id="i-JDC8rbgETmxgYZLPSUwp29">
+          Laki- ja Talousvaliokunnan mietintö N:o 8.
+        </p>
+        <pb facs="https://swerik-project.github.io/valtiopaivat-handlingar-pdf/1894/ask_1894__II-001-0006.pdf"/>
+        <p xml:id="i-UznfLxYDBPcSDVycUWBS1o">
+          6 V. M. — Esit. N:o 16. 27 8.
+        </p>
+        <p xml:id="i-NCEzCkf1WiL67msE8MkDRX">
+          Ritaristo ja Aateli on pyyhkinyt jälkimäisestä momentista pois
+          sanat »semmoisiin kuin 16 $:ssä sanotaan»; mutta kun tämä viimeksi
+          mainittu pykälä Valiokunnan ehdotuksessa muuttamatta pysytettänee,
+          ehdottaa Valiokunta
+        </p>
+        <p xml:id="i-4DiS4V4bGaVcsXDCQMSX9q">
+          että 27 $ hyväksyttäisiin Valiokunnan mietinnön mukaan.
+        </p>
+        <p xml:id="i-L5FwYApcwQYkw93yYwBQJo">
+          31'&amp;.
+        </p>
+        <p xml:id="i-JBKNhTTJwk9FPpVnFwYKfW">
+          Pappissääty on päättänyt muutettavaksi sanat » kahdessa vuodessa»
+          sanoiksi »viidessä vuodessa».
+        </p>
+        <p xml:id="i-WxREkVfPTZaPNzQFtjRve5">
+          Koska Ritaristo ja Aateli sekä Porvarissääty ovat hyväksyneet
+          tämän pykälän Valiokunnan ehdotuksen mukaan, esittää Valiokunta
+        </p>
+        <p xml:id="i-X1PXXSdMKP3AnGcdgXuBFg">
+          että Valtiosäädyt hyväksyisivät puheena olevan pykälän muuttamatta.
+        </p>
+        <p xml:id="i-JZwRR8Ezkez8xhTNwkNM1U">
+          Helsingissä, Laki- ja Talousvaliokunnalta, 23 p:nä Toukokuuta
+          1894.
+        </p>
+        <p xml:id="i-27v6nLRnJMAyY9XKnJh3UG">
+          Helsingissä, Helsingin Sentraali-Kirjapainossa 1894.
+        </p>
+        <pb facs="https://swerik-project.github.io/valtiopaivat-handlingar-pdf/1894/ask_1894__II-001-0007.pdf"/>
+        <p xml:id="i-9AT3ZqgpUhBwHgzbr2iS2F">
+          V. M. — Esit. N:o 16.
+        </p>
+        <p xml:id="i-TUsRp124WGKwVnmKshbxtH">
+          Laki- ja Talousvaliokunnan toinen ehdotus niiden eriäväin päätösten
+          yhteensovittamiseksi mihin säädyt ovat tulleet käsitellessään
+          Valiokunnan mietintöä N:o 8 armollisen esityksen johdosta, joka
+          koskee säästöpankkeja.
+        </p>
+        <p xml:id="i-879odG3wnzRq9Thry9P5Hw">
+          Valiokunnan saamain pöytäkirjanotteiden mukaan on
+        </p>
+        <p xml:id="i-EVgG4jjMHcNam7P8c8KTYv">
+          Talonpoikaissääty, pysymällä entisessä päätöksessänsä, kokonaan
+          hylännyt ensimäisen yhteensovitusehdotuksen, mutta muut säädyt
+          ovat sen hyväksyneet muuten, paitsi seuraavissa kohdissa, nimittäin
+        </p>
+        <p xml:id="i-LgspW3uzsVi53vSrVDgw1w">
+          16 8.
+        </p>
+        <p xml:id="i-E9jPSwya7tj5aaHzJtSc4r">
+          Ritaristo ja Aateli on, hylkäämällä yhteensovitusehdotuksen,
+          uudistanut entisen päätöksensä, että sanat »ei kuitenkaan semmoisiin,
+          joista kunta tahi seurakunta on velvollinen pitämään huolta» ovat
+          jätettävät pois.
+        </p>
+        <p xml:id="i-KJUV5xFkF1PDQn9EfB45Ns">
+          Pappis- ja Porvarissääty ovat hyväksyneet tämän kohdan yhteensovitusehdotuksessa.
+        </p>
+        <p xml:id="i-RjduSec6thizm7Lz9zDvvZ">
+          Koska viimeksi mainitut kaksi säätyä ovat hyväksyneet yhteensovitusehdotuksen
+          muuttamatta ja Talonpoikaissääty jyrkästi pannut vastaan kaik-
+        </p>
+        <p xml:id="i-VzBPxuCBKiRTTfU76NJk11">
+          Laki- ja Talousvaliokunnan mietintö N:o 8.
+        </p>
+        <pb facs="https://swerik-project.github.io/valtiopaivat-handlingar-pdf/1894/ask_1894__II-001-0008.pdf"/>
+        <p xml:id="i-Y3RBccqwqZTfoGpPCQYnrZ">
+          2 V. M. — Esit. N:o 16.
+        </p>
+        <p xml:id="i-WFgi1mhZASQkj1BpWkk9LX">
+          kea lainsäädäntöä puheena olevasta asiasta, esittää Valiokunta
+          säätypäätöksen saamiseksi
+        </p>
+        <p xml:id="i-5Mx7dV7zA4j9c1hHnLqLmK">
+          että Ritaristo ja Aateli hyväksyisi pykälän muuttamatta Valiokunnan
+          ehdotuksen mukaan.
+        </p>
+        <p xml:id="i-4cTRjrRrjMCoSvUr5tpGLL">
+          22 S.
+        </p>
+        <p xml:id="i-KLgkan33RzT1pZMfXezPFr">
+          | Ritaristo ja Aateli sekä Pappissääty ovat hyväksyneet yhteensovitusehdotuksen.
+        </p>
+        <p xml:id="i-AfNgQVc9prXPfsipQYK6dF">
+          Porvarissääty on tämän pykälän suhteen pysynyt entisessä päätöksessänsä,
+          eli että pykälä olisi muutettava siihen suuntaan, että säilytettynä
+          viimeinen momentti, sellaisena kuin se kuuluu vastaavassa armollisen
+          esityksen $:ssä, siinä säädettäisiin että vastakirjaan olisi merkittävä
+          säästöönpanijain nimi, mutta että säästöpankki olisi oikeutettu
+          maksamaan rahat sille, joka on vastakirjan haltija ja sen pankissa
+          esiintuo, jollei sitä ehtoa ole tehty, että ainoastaan säästöönpanija
+          tahi se, joka näyttää olevansa hänen oikeuden omistajansa, saa
+          rahat ottaa ipois, joka ehto säästöpankin hallituksen tulisi merkitä
+          vastakirjaan.
+        </p>
+        <p xml:id="i-FC1Du1iKQDDfNYCb4dHBcA">
+          Koska kaksi säätyä on tämänkin pykälän muuttamatta hyväksynyt,
+          ehdottaa Valiokunta 16 8:n kohdalla sanotuista syistä
+        </p>
+        <p xml:id="i-5TzoxferNJ8pUaWCTJgTmz">
+          että Porvarissääty hyväksyisi pykälän Valiokunnan ensimäisen
+          yhteensovitusehdotuksen mukaan.
+        </p>
+        <p xml:id="i-BnyqDUoL49q82M72cHLFcY">
+          23 8.
+        </p>
+        <p xml:id="i-JbdetGfi8zcCqPPCisNHp7">
+          Ritaristo ja Aateli on hyväksynyt pykälän siten että pykälän
+          alussa on »22 $:ssä» muutettu muodoksi »22 S:n 2 momentissa».
+        </p>
+        <p xml:id="i-Qwqcr67mbPaduzkqf5v64a">
+          Laki- ja Valousvaliokunnan mietintö N:o 8.
+        </p>
+        <pb facs="https://swerik-project.github.io/valtiopaivat-handlingar-pdf/1894/ask_1894__II-001-0009.pdf"/>
+        <p xml:id="i-4yXCMNVdRDrMWAyu7EMoT9">
+          V. M. — Esit. N:o 16. 3
+        </p>
+        <p xml:id="i-KDXzVuedWW2wvFEcqSq4hd">
+          Pappissääty on hyväksynyt pykälän muuttamatta Valiokunnan ensimäisen
+          yhteensovitusehdotuksen mukaan.
+        </p>
+        <p xml:id="i-ND3fWjcN6EzMQmZyGPLAF">
+          Porvarissääty on lähettänyt pykälän takaisin uudestaan muodostettavaksi
+          sen päätöksen mukaiseksi, jonka sääty teki 22 &amp;:n suhteen.
+        </p>
+        <p xml:id="i-5iFgwbaoMfAh1Bn7eV1u78">
+          Koska Ritariston ja Aatelin päättämä oikaisu näyttää olevan täysin
+          asianmukainen, saa Valiokunta ehdottaa
+        </p>
+        <p xml:id="i-64H1yoSASfNpCLsBAxE3XX">
+          että 23 $ hyväksyttäisiin kuulumaan:
+        </p>
+        <p xml:id="i-WUssvBe2t7RYXpqo6x1SFv">
+          «Jos 22 $:n 2 momentissa mainitulla ehdolla on rahoja vaimon
+          varalla säästöpankissa tahi alaikäinen, joka on täyttänyt viisitoista
+          vuotta, on rahoja sinne säästöön pannut, älköön edusmies olko
+          oikeutettu rahoja irtisanomaan ja nostamaan ilman vaimon tahi
+          alaikäisen suostumusta.
+        </p>
+        <p xml:id="i-EBwbRbrA4RDGAadrMQSwVd">
+          27 8.
+        </p>
+        <p xml:id="i-K1UCks8kchaCSmfmTtnvK7">
+          Ritaristo ja Aateli on pysynyt entisessä päätöksessään, että
+          jälkimäisen momentin lopussa olevat sanat «semmoisiin kuin 16
+          $:ssä mainitaan» ovat jätettävät pois, jota vastoin
+        </p>
+        <p xml:id="i-FLmRx7sBznvPoYAPWtWbPh">
+          Pappis- ja Porvarissääty ovat hyväksyneet pykälän muuttamatta.
+        </p>
+        <p xml:id="i-MXZzqro5hfEo9sjCCys25y">
+          Koska Ritariston ja Aatelin muutosehdotus on sen päätöksen yhteydessä,
+          jonka sääty teki 16 &amp;:n
+        </p>
+        <p xml:id="i-HizLQnqbfcVhmHW95gXepA">
+          Laki- ja Talousvaliokunnan mietintö N:o 8.
+        </p>
+        <pb facs="https://swerik-project.github.io/valtiopaivat-handlingar-pdf/1894/ask_1894__II-001-0010.pdf"/>
+        <p xml:id="i-YQajMzafspBho1AD85KjQT">
+          4 V. M. — Esit. N:o 16.
+        </p>
+        <p xml:id="i-8CN8LuMrZ3AJZYYe77abu5">
+          suhteen, saa Valiokunta ennen esitettyjen syiden nojalla kunnioittaen
+          ehdottaa
+        </p>
+        <p xml:id="i-3CpuBxt37JvCbLPoCvbeAD">
+          että pykälä hyväksyttäisiin Valiokunnan asiasta ensiksi antaman
+          mietinnön mukaan.
+        </p>
+        <p xml:id="i-Ax6U2UKq3u5HbyQq5hfmek">
+          Helsingissä, Laki- ja Talousvaliokunnalta, 29 p:nä Toukokuuta
+          1894.
+        </p>
+        <p xml:id="i-UnRkkzYK4fDBnK68LrRzQf">
+          Helsingissä, Helsingin Sentraali-Kirjapainossa, 1894.
+        </p>
+        <pb facs="https://swerik-project.github.io/valtiopaivat-handlingar-pdf/1894/ask_1894__II-001-0011.pdf"/>
+        <p xml:id="i-SfZtWzrbboJZdcCeNchW8d">
+          Säät. Vast. — Esit. N:o 16.
+        </p>
+        <p xml:id="i-HQSvv3u1hu4asGArGFDSSL">
+          Suomenmaan Säätyjen alamainen vastaus Keisarillisen Majesteetin
+          armolliseen esitykseen, joka koskee säästöpankkeja.
+        </p>
+        <p xml:id="i-8py8RZdKS5gNnxnBU6FCr1">
+          Suurivaltaisin, Kaikkeinarmollisin Keisari ja Suuriruhtinas !
+        </p>
+        <p xml:id="i-UEqKdtMfGtLpFjDuPCJjyq">
+          Säätyjen 1891 vuoden valtiopäivillä tekemän alamaisen anomuksen
+          johdosta on Teidän Keisarillinen Majesteettinne armollisessa esityksessä
+          näillä valtiopäi-
+        </p>
+        <pb facs="https://swerik-project.github.io/valtiopaivat-handlingar-pdf/1894/ask_1894__II-001-0012.pdf"/>
+        <p xml:id="i-HHTh4kiRFvZgJXAeVnWHbG">
+          2 Säät. Vast. — Esit. N:o 16.
+        </p>
+        <p xml:id="i-2MrLAtyrVHvwTKHTZxMufp">
+          villä antanut Säädyille ehdotuksen asetukseksi säästöpankeista;
+          jonka ohessa Säätyjen tiedoksi on jätetty ehdotus julistukseksi
+          asiassa.
+        </p>
+        <p xml:id="i-NCBe2jCSSm7dsFDiqks7mN">
+          Säädyt ovat pääasiassa hyväksyneet armollisessa esityksessä olevan
+          asetusehdotuksen, samalla kuin lakiehdotukseen on tehty muutamia
+          muutoksia, joista Säädyt pyytävät seuraavassa saada tehdä selkoa.
+        </p>
+        <p xml:id="i-HVhhhC7MfuowzEWr65aJzw">
+          Armollisen esityksen mukaan ei oikeutta säästöpankkien perustamiseen
+          myönnettäisi kunnalle. Mainittuun suuntaan käyvä säännös näyttää
+          kuitenkin olevan omiansa ehkäisemään uusien säästöpankkien syntymistä,
+          koska yleisten asiain harrastus useilla paikkakunnilla vielä on
+          laimea, eikä sellaisten laitosten perustamista yksityisten toimesta
+          sentähden aina voi toivoa. Kumminkaan ei kunnan oikeus säästöpankin
+          perustamiseen Säätyjen mielestä saisi sisältää valtaa sitoutua
+          vastaamaan säästöönpannuista varoista, koska sellainen sitoumus
+          kunnan puolelta Säätyjen mielipiteen mukaan ei ole sopusoinnussa
+          voimassa olevan kunnallisasetuksen määräysten kanssa; kuntaa kun
+          ei näytä voitavan velvoittaa maksamaan säästöönpanijain saamisia,
+          jos vajausta niissä syntyisi. Siihen katsoen, mihin nyt on viitattu,
+          on säästöpankkiasetuksessa katsottu pitävän olla semmoinen säännös,
+          että kunnalla on oikeus säästäväisyyden edistämiseksi perustaa
+          sellainen laitos; ja on tämän asetusehdotuksen 3 pykälän 1 momenttiin
+          sentähden tehtykin tarpeellinen muutos. Pykälän sananmuodostus
+          on sitäpaitsi jossain määrin muutettu toisin kuuluvaksi.
+        </p>
+        <p xml:id="i-GVt4xBA3iU4N8wPcd9yQQD">
+          Katsoen siihen laajuuteen, jonka säästöpankkiliike vähitellen
+          on saavuttanut, sekä niihin moniin ja suuriin etuihin, joita se
+          koskettaa, ovat Säädyt, koska tähän saakka järjestetyllä säästöpankkien
+          hallinnon silmällä pidolla ei ole ollut mainittavaa merkitystä,
+          pitäneet esityksessä olevat sellaista silmällä pitoa koskevat
+          määräykset tarpeen vaatimina eivätkä sentähden ole epäilleet hyväksyä
+          tätä koskevaa säännöstä 5 pykälässä ilman
+        </p>
+        <pb facs="https://swerik-project.github.io/valtiopaivat-handlingar-pdf/1894/ask_1894__II-001-0013.pdf"/>
+        <p xml:id="i-Q2LCLpcKeWBgoQsieecKBi">
+          Säät. Vast. — Esit. N:o 16. 3
+        </p>
+        <p xml:id="i-YHRLNXfEJJ5HtSbh2EDiCY">
+          muuta asiallista muutosta, paitsi mitä tulee siihen määräykseen,
+          että säästöpankin on ottaminen osaa tarkastajan palkkaamiseen.
+          Maan yksityispankeista ja vakuutuslaitoksista on tosin säädetty,
+          että semmoisen laitoksen tulee palkata sen toimintaa valvomaan
+          asetettu virallinen asiamies; ja tämä järjestys näyttääkin oikeutetulta
+          sen puolesta että mainitut laitokset ovat asioimisyrityksiä. Mutta
+          kun säästöpankit luonteeltaan ovat jossain määrin hyväntekeväisyyslaitoksia,
+          ovat Säädyt katsoneet ne kokonaan vapautettaviksi tarkastajan
+          palkkaamis-velvollisuudesta.
+        </p>
+        <p xml:id="i-4C8Zooi39MhrKNST41VNH9">
+          Mitä tulee 6 &amp;:n 2 momentissa olevaan säännökseen, joka koskee
+          isäntäin enintä lukumäärää, ovat Säädyt arvelleet, ettei sitä
+          pitäisi rajoittaa, koska isäntien lukumäärän tarve eri paikkakunnissa
+          on ollut erilainen, ja näiden luku muutamissa säästöpankeissa
+          jo on melkoisesti suurempi kuin esityksessä on ehdotettu. Momentti
+          on sentähden siinä tarkoituksessa muutettu.
+        </p>
+        <p xml:id="i-9DPUZdnSgDPUG9qqjBfYdj">
+          Koska 6 &amp;:n 3 momentin säännös helposti voisi saattaa siihen
+          käsitykseen, että niiden oikeus, jotka ovat antaneet säännöissä
+          tarkemmin määrätyn raha-avun säästöpankin kanta- tahi vararahaston
+          perustamiseen tahi kartuttamiseen, ottaa osaa isäntäin neuvotteluihin
+          ja päätöksiin on pidettävä hankittuna oikeutena, jota ei voi sanotuilta
+          henkilöiltä ottaa pois, ovat Säädyt katsoneet momentin poistettavaksi,
+          varsinkin kun sellaista oikeutta ei missään tapauksessa olisi
+          ulotettava yli sen ajan, joksi isännät ovat valitut. Katsomatta
+          niihin väärinkäytöksiin joihin tämä säännös saattaisi antaa aihetta,
+          kun säästöpankin ulkopuolella olevat henkilöt sanotun raha-avun
+          maksamalla ikäänkuin ostaisivat itsellensä mainitun oikeuden ja
+          sen kautta isäntien kokouksissa voisivat anastaa itsellensä vallan,
+          joka kenties tulisi ratkaisevasti vaikuttamaan isäntien päätökseen,
+          ei mainitulla määräyksellä myöskään liene mitään varsinaista merkitystä
+          niille, jotka todellisesta harrastuksesta itse laitokseen sitoutuvat
+          taloudellisiin uhrauksiin sen hyväksi, koska täytyy olettaa,
+        </p>
+        <pb facs="https://swerik-project.github.io/valtiopaivat-handlingar-pdf/1894/ask_1894__II-001-0014.pdf"/>
+        <p xml:id="i-XSVHG9WcPfn9VZo6fTnwnt">
+          4 Säät. Vast. Esit. N:o 16.
+        </p>
+        <p xml:id="i-SHC2hzaVq6TWEbgSNMY81z">
+          että sellaiset henkilöt valitaan isänniksi, jos he muuten ovat
+          siihen toimeen sopivia.
+        </p>
+        <p xml:id="i-3CSuNvaN3G7Qew9EoaE9BL">
+          Esityksen 8 S:n 1 momentissa säädetään, ettei säästöpankki ole
+          velvollinen muuta kuin määräajan kuluttua irtisanomisen jälkeen
+          maksamaan takaisin talteen pantuja varoja päälle tietyn säännöissä
+          määrätyn pienemmän summan, jonka ohessa säästöpankin hallitukselle
+          kuitenkin on annettu valta, milloin se haitatta voi tapahtua,
+          myöntää enemmänkin poismaksettavaksi irtisanomisajan umpeen kulumista
+          odottamatta. Kun kuitenkin 1 &amp;:ssä lausutaan so yleinen peri-aate,
+          että säästöpankin tulee irtisanomisen mukaan maksaa säästöönpannut
+          rahat takaisin, ovat Säädyt tämän kanssa yhtäpitävästi jättäneet
+          pykälästä pois sanat , päälle tietyn säännöissä määrätyn pienehkön
+          summan" sekä sanan ,enemmän'. Tähän poistamiseen lienee sitä enemmän
+          syytä, kun säästöpankin hallitus tämän kautta ei ole estetty maksamasta
+          varoja irtisanomisajan umpeen kulumista odottamatta, jota vastoin
+          puheena oleva säännös saattaisi tuottaa hankaluuksia säästöpankille
+          sitoumustensa täyttämisessä, jos sattuisi suurempi määrä poismaksuja
+          suoritettavaksi yhdellä kertaa. — Mitä tulee siihen määräykseen,
+          että säästöpankki satunnaisen rahantarpeen täyttämiseksi olisi
+          oikeutettu ottamaan lainoja enintään kuudeksi kuukaudeksi, ovat
+          Säädyt havainneet sellaisen ajanmääräyksen olevan omiansa vaikuttamaan
+          haitallisesti ja ehkäisevästi säästöpankkien toimintaan. Tähän
+          katsoen ja kun ei liene syytä peljätä, että säästöpankki ottaisi
+          lainoja pitemmäksi aikaa kuin tarve todellakin vaatii, on mainittu
+          säännös pykälästä jätetty pois.
+        </p>
+        <p xml:id="i-9KJ12GV4c37PhZHDPvgDfg">
+          Ne 10 $:ssä olevat säännökset, että säästöpankki on velvollinen
+          pitämään osan varojansa helposti rahaksi muutettavina arvopapereina,
+          tarkoittavat sen mahdollisuuden turvaamista, että aina voitaisiin
+          maksaa pois irtisanotut varat. Mutta siinä oleva määräys, että
+          kassareservi on oleva sijoitettuna ainoastaan obligatsioneihin
+        </p>
+        <pb facs="https://swerik-project.github.io/valtiopaivat-handlingar-pdf/1894/ask_1894__II-001-0015.pdf"/>
+        <p xml:id="i-VXDsFuTHwDnPiktAKTFJrT">
+          Säät. Vast. — Esit. N:o 16. 5
+        </p>
+        <p xml:id="i-MmMhDk6yQwacU9xfKCT9Fz">
+          ja talletustodistuksiin, näyttää Säätyjen mielestä, erittäinkin
+          maalla, voivan tuottaa monenlaisia haittoja ja kulunkeja. Vaikka
+          kiinnitysvakuutta vastaan annettuja lainoja ei aina olekaan helppo
+          saada perityiksi ja tähän nähden saattaisi epäillä, pitäisikö
+          kiinnitettyjä velkakirjoja saada hyväksyä kassareserviksi, ovat
+          Säädyt kuitenkin olleet sitä mieltä, että osa kassareservistä
+          saa olla kiinnitettyjä velkakirjoja, koska hyviä kiinnityksiä
+          taloudellisen ahdinkotilankin aikoina helposti voidaan saada lainoitetuiksi
+          pankkilaitoksiin, jonka tähden Säädyt ovat päättäneet, että kassareservinä
+          saa sen puoleen arvomäärään asti olla sellaisia kiinnitettyjä
+          velkakirjoja, joiden, asiaa tarkasti punnittua, katsotaan tarjoovan
+          täydellistä vakuutta. Sitäpaitsi on pykälän sananmuotoa vähän
+          muutettu.
+        </p>
+        <p xml:id="i-8dfbUkPpcKGCMEh29DbFuU">
+          Julistusehdotukseen otetut määräykset niistä kirjoista, jotka
+          ovat tarpeen, jotta säästöpankin asemaa varmasti voitaisiin arvostella,
+          ovat Säätyjen mielestä niin tärkeitä, että ne ovat otettavat Hallitsijan
+          ja Säätyjen yhteisesti laatimaan lakiin. Tähän katsoen, ja kun
+          on lausuttu olevan peljättävää, että säästöpankkeja silmällä pitämään
+          asetettu tarkastaja vastakkaisessa tapauksessa saattaisi nähdä
+          itsellään olevan aihetta asettaa kirjanpidon suhteen kohtuuttomia
+          vaatimuksia säästöpankin hallitukselle, ovat Säädyt siirtäneet
+          mainitut määräykset julistusehdotuksesta säätyasetukseen, mihin
+          ne on otettu 12 Sään, joka muuten sisältää säännöksen tilinpäätöksestä.
+          Sen ohessa ja kun kirjanpitoa ja tilinpäätöstä koskevilla määräyksillä
+          ei näytä olevan yhteyttä sen säännöksen kanssa, että säästöpankki
+          on velvollinen antamaan tilastollisia tietoja, on viimeksi mainittu
+          säännös ynnä siihen liitetty lisäys pantu eri pykäläksi (14 8).
+        </p>
+        <p xml:id="i-HRxc2wgET1W6m9B7Tis6ex">
+          Koska säästöpankkien kassa, kirjat ja arvopaperit varsinkin maalla
+          useinkin säilytetään paikoissa, missä ne helposti ovat tulenvaaran
+          ja anastuksen alaisia, ja kun Säädyt sen johdosta ovat katsoneet
+          suotavaksi, että tointa
+        </p>
+        <pb facs="https://swerik-project.github.io/valtiopaivat-handlingar-pdf/1894/ask_1894__II-001-0016.pdf"/>
+        <p xml:id="i-QsfqayKnZ4EwuHp1Qb3G97">
+          6 Säät. Vast. — Esit. N:o 16.
+        </p>
+        <p xml:id="i-TbJKXjkdiwp3SSmyM245SP">
+          pidettäisiin niiden turvaamiseksi, on sitä tarkoittava säännös
+          pantu 13 &amp;:ksi.
+        </p>
+        <p xml:id="i-L1M8L6NjFYBbS5SatJsJgo">
+          Armollisen esityksen 14 $:n mukaan saa säästöpankin voittovarojen
+          ylijäämää käyttää hyväntekeväisiin tahi yleishyödyllisiin tarkoituksiin.
+          Säätyjen mielestä ei kuitenkaan sellaisen määräyksen säätäminen
+          olisi omiansa edistämään säästöpankkien varsinaista tarkoitusta.
+          Kun kunnat luonnollisesti eivät mielellään tahdo lisätä verokuormaansa,
+          niin voitaisiin helposti säästöpankin voittovaroja käyttää kunnallisiin
+          tarkoituksiin, vieläpä kenties suuremmassa määrässä kuin säästöpankin
+          varmuus myöntäisi. Varsinkin voidaan tätä peljätä sellaisiin säästöpankkeihin
+          nähden, jotka ovat kunnan perustamia ja välittömästi siitä riippuvia.
+          Kun kunnan viranomaiset usein valitsevat näiden säästöpankkien
+          isännät, voitaisiin niiksi helposti valita henkilöitä, jotka olisivat
+          taipuvaisia etusijassa vähentämään kunnallista taksoitusta. Tämän
+          johdosta ja kun sopivinta lienee, että näitä voittovaroja käytetään
+          pyrintöjen edistämiseen, jotka ovat säästöpankkien tarkoitusta
+          lähempänä, ovat Säädyt pykälään liittäneet sen lisäyksen, että
+          sellaista ylijäämää ei saa käyttää tarkoitukseen, josta kunta
+          tahi seurakunta on velvollinen huolta pitämään.
+        </p>
+        <p xml:id="i-7tgkWS8d4qqAhehRrFqhaG">
+          Säätyjen hyväksyttäväksi annetussa lakiehdotuksessa ei ole tarkempia
+          määräyksiä niistä toimenpiteistä, joihin valtion puolelta saisi
+          ryhtyä sellaisen säästöpankin suhteen, jota on hoidettu vasten
+          voimassa olevia määräyksiä, tahi kun on syytä varoa, ettei säästöpankki
+          enää anna riittävää varmuutta säästöönpanijoille. Edellämainitun
+          julistusehdotuksen 9 ja 10 S:ssä on tosin määräyksiä sanotussa
+          suhteessa, mutta kun tätä asiata koskevat säännökset näyttävät
+          olevan periaatteen kannalta niin tärkeitä, että ne ovat otettavat
+          säätyasetukseen, ovat Säädyt asetusehdotuksessa erityiseen pykälään
+          (20 $) yhdistäneet kaikki ne määräykset, jotka tässä suhteessa
+          ovat huomioon otettavat ja joiden tulee olla niiden seikkaperäisten
+          säännös-
+        </p>
+        <pb facs="https://swerik-project.github.io/valtiopaivat-handlingar-pdf/1894/ask_1894__II-001-0017.pdf"/>
+        <p xml:id="i-TUVWkrYac5iy8JMJLMeBhu">
+          Säät. Vast. -— Esit. N:o 16. 7
+        </p>
+        <p xml:id="i-B8cEErH9g8BcRbkpE2do4d">
+          ten perusteena, mitkä hallinnollista tietä voidaan asiasta antaa.
+        </p>
+        <p xml:id="i-DVso2Ea4nRMiYVEMj4mFKs">
+          Kun on pidetty tarpeellisena määräyksen ottamista säätylakiin
+          siitä, mitä kirjoja säästöpankki on velvollinen pitämään, on 18
+          (21) $:n 1 momenttiin lisätty sanat ,Nämä ilmoitukset merkitään
+          säästöpankin laskukirjaan*.
+        </p>
+        <p xml:id="i-T6gxCi1iiz71MPy7tEXrvK">
+          Tehokkaamman silmällä pidon aikaansaamiseksi on 19 (22) S:n 3
+          momenttiin otettu määräys siitä, että kun rahoja pannaan säästöpankkiin
+          tahi sieltä otetaan, kahden säästöpankin virkamiehen tahi hallituksen
+          jäsenen tulee se merkitä kumpasenkin eri kappaleesensa pankin
+          kassakirjaa.
+        </p>
+        <p xml:id="i-3GDCNtHJYfT4DLZZxHqdDV">
+          Mitä 20 (23) S:ään tulee, on se edellisen pykälän määräysten
+          mukaisesti muodostettu.
+        </p>
+        <p xml:id="i-VLs5fiR4iKQLz524rAzbzp">
+          Säästöönpanijain oikeuden turvaamiseksi ovat Säädyt 21 (24) S:ään
+          ottaneet määräyksen siitä, että säästöpankin tulee antaa saamastansa
+          vastakirjasta kuitti, jota menettelyä jo useissa säästöpankeissa
+          noudatetaan.
+        </p>
+        <p xml:id="i-PykGwnA7VyUEF218iEKwCi">
+          Sitä muutosta, joka 24 (27) S:n 2 momenttiin on tehty, on vaatinut
+          14 (16) 8:n muuttaminen.
+        </p>
+        <p xml:id="i-FrAJYV4MReTPSq6G6Zc6aV">
+          25 (28) 8:n 5 ja 9 momentin sananmuodostukseen on tehty muutamia
+          vähäisiä muutoksia.
+        </p>
+        <p xml:id="i-5N4XNFrYPqDkPtNxcZrm2A">
+          27 (30) S:ään on pantu tarkempia määräyksiä niiden vastuunalaisuudesta,
+          jotka säästöpankin puolesta tekevät sitoumuksia, ennenkuin sen
+          säännöt on vahvistettu.
+        </p>
+        <p xml:id="i-MGPaXS8zyN962mHmpWo9dM">
+          Edellä sanotun perusteella, saavat Säädyt alamaisesti ilmoittaa,
+        </p>
+        <p xml:id="i-6MCJs1kf2emNneD4Yy7oCm">
+          että Säädyt, muutamissa kohdin muuttamalla armollisessa esityksessä
+          olevaa asetusehdotusta, ovat hyväksyneet näin kuuluvan asetuksen:
+        </p>
+        <pb facs="https://swerik-project.github.io/valtiopaivat-handlingar-pdf/1894/ask_1894__II-001-0018.pdf"/>
+        <p xml:id="i-UnbCdY1EzdG7LBmHNouEJs">
+          8 Säät. Vast. — Esit. N:o 16.
+        </p>
+        <p xml:id="i-Dz9zBSa6k6tba8UNaV11cW">
+          Asetus säästöpankeista.
+        </p>
+        <p xml:id="i-TBA4i4bUhhFC34gDL8magj">
+          18 Säästöpankilla tässä asetuksessa tarkoitetaan rahalaitosta,
+          jonka on määrä, perustajain tahi niiden oikeudenhaltijain saamatta
+          nauttia hyväkseen voittoa liikkeestä, ottaa yleisöltä rahaa korkoa
+          kasvamaan ja lisäämällä korot pääomiin, niitä yhä kartuttaa sekä
+          irtisanomisen mukaan maksaa rahat takaisin.
+        </p>
+        <p xml:id="i-3MfrQg52BuhkjDMKQBvEsQ">
+          28.
+        </p>
+        <p xml:id="i-SyEhEjZxi4CF7Kj2kEM2JS">
+          Paitsi postisäästöpankkia älköön mikään muu rahalaitos kuin semmoinen,
+          joka 1 $:ssä mainitaan, olko oikeutettu käyttämään säästöpankin
+          nimitystä. Jos sitä kuitenkin tehdään, tulee kuvernöörin määrätä
+          se oikaistavaksi.
+        </p>
+        <p xml:id="i-ANMUu2EE8eotrc622Efeik">
+          38
+        </p>
+        <p xml:id="i-8gVBiorvnvYeVvTvL8hfQh">
+          Niiden, jotka tahtovat perustaa säästöpankin, tulee olla hyvämaineisia
+          Suomen kansalaisia, vähintäänkin viisi luvultaan; kuitenkin olkoon
+          myös kunta oikeutettu, säästäväisyyden edistämiseksi kunnassa,
+          perustamaan säästöpankin.
+        </p>
+        <p xml:id="i-Jnr9NkfE8iUUbPM42FPzkY">
+          Säästöpankin perustajain pitää siltä viranomaiselta jonka Keisari
+          ja Suuriruhtinas on sitä varten määrännyt? hakea vahvistusta säästöpankille
+          hyväksyttyihin sääntöihin, ja on silloin myöskin todistettava
+          että niin isö kantarahasto, kuin säännöissä määrätään, on säästöpankille
+          merkitty tahi jo olemassa.
+        </p>
+        <p xml:id="i-2TCZoUFCDZsD3tXdEqHoLE">
+          Jos huomataan että säännöt eivät ole vastoin lakia ja asetuksia,
+          niin ne ovat vahvistettavat.
+        </p>
+        <p xml:id="i-UZ3CtYyjRpUgz1Ak25WUrg">
+          Sääntöjen muutos ei ole pätevä, ennenkuin se on samalla tavoin
+          vahvistettu.
+        </p>
+        <p xml:id="i-VegedMqE9JEbfSZQxSevSP">
+          Tieto säästöpankin sääntöjen vahvistamisesta tai muuttamisesta
+          on saman viranomaisen, joka ne on vahvistanut, julkaistava säästöpankin
+          kustannuksella tämän maan virallisissa sanomalehdissä.
+        </p>
+        <pb facs="https://swerik-project.github.io/valtiopaivat-handlingar-pdf/1894/ask_1894__II-001-0019.pdf"/>
+        <p xml:id="i-D2DANob3goApbBFVh6nrFL">
+          Säät. Vast. — Esit. N:o 16. 9
+        </p>
+        <p xml:id="i-PBRpV8ECU9sCoM8hwFoKHc">
+          4 8.
+        </p>
+        <p xml:id="i-5rQ4BevYB3xNrGzJGwffSs">
+          Säästöpankin kantarahasto ei saa olla tuhatta markkaa pienempi,
+          ellei se viranomainen, jonka toimena säästöpankin sääntöjen vahvistaminen
+          on, erityisiin asianhaaroihin nähden myönnä että kantarahasto
+          määrätään pienemmäksi summaksi.
+        </p>
+        <p xml:id="i-4obfYg8tXELv16L9zCHkR2">
+          5 8. Keisarin ja Suuriruhtinaan on asia määrätä miten säästöpankkeja
+          on yhteiskunnan puolesta silmällä pidettävä.
+        </p>
+        <p xml:id="i-NPdiQcUFSLXZaW3eXx8wCg">
+          6 8.
+        </p>
+        <p xml:id="i-FnoFTkS6jgKmZmwbvSRiUa">
+          Säästöpankin asioita hoitavat säästöpankin isännät ja sen hallitus.
+        </p>
+        <p xml:id="i-6yJjA2FVuckUtPLsLNsuXV">
+          Isännät, jotka säästöönpanijain edustajina pitävät silmällä säästöpankin
+          hallintoa, valitaan määräajaksi sillä tavoin kuin säännöissä sanotaan.
+          Isäntäin lukumäärä ei saa olla viittä pienempi.
+        </p>
+        <p xml:id="i-G4iEpFqbTxEDwcE6ScuRBu">
+          Isännät ovat ainakin kerran vuodessa kutsuttavat varsinaiseen
+          kokoukseen, ja heidän tulee: valita sekä hallituksen jäsenet tietyksi,
+          säännöissä määrätyksi ajaksi, että myöskin joka vuosi tilintarkastajat
+          säästöpankin hallintoa tarkastamaan; päättää hallitukselle annettavasta
+          vastuunvapaudesta tahi siitä, mihin toimeen on ryhdyttävä, jos
+          vastuunvapaus kielletään; sekä ratkaista kysymyksiä, joita ehkä
+          nostetaan vararahaston 16 S:ssä mainitun ylijäämän käyttämisestä;
+          ja on isäntäin muuten päätettävä niistä asioista, jotka sääntöjen
+          mukaan ovat heidän käyteltäviään. Isäntä, joka sen ohessa on hallituksen
+          jäsen, älköön olko tilintarkastajia valitsemassa älköönkä hallituksen
+          vastuunvapaudesta päättämässä.
+        </p>
+        <p xml:id="i-8xNZZATT6RVwUXDHZ3UPLT">
+          Hallitus pitää säästöpankin toiminnan suoranaista johtoa ja sen
+          tulee kaikissa jutuissa kantaa ja vastata säästöpankin puolesta,
+          niin myös päättää asioista, joiden ratkaiseminen ei ole isännille
+          pidätetty.
+        </p>
+        <pb facs="https://swerik-project.github.io/valtiopaivat-handlingar-pdf/1894/ask_1894__II-001-0020.pdf"/>
+        <p xml:id="i-UvbyunpL38os5N3vuCwd4Y">
+          10 Säät. Vast. — Esit. N:o 16.
+        </p>
+        <p xml:id="i-Syo3B1jVKVokrNJfbUAPVN">
+          Säästöpankin isäntä älköön olko saman säästöpankin virkamiehenä,
+          ellei sitä, erityisiin asianhaaroihin katsoen, säännöissä nimenomaan
+          myönnetä.
+        </p>
+        <p xml:id="i-U4HWwZzWF3PZsJKGVTpG5G">
+          Tieto säästöpankin hallituksen jäsenistä on sen toimesta sopivalla
+          tavalla yleisölle annettava, josta sääntöihin on pantava tarkempi
+          määräys.
+        </p>
+        <p xml:id="i-J94ocWa8Uxcc4iy3xHjj89">
+          78.
+        </p>
+        <p xml:id="i-GSBWtM4MxR5SJpkLtjvGGN">
+          Säästöpankin hallituksen jäsen älköön siitä toimestaan saako
+          palkkiota, elleivät säännöt sitä nimenomaan myönnä; palkkiota
+          ei saa kuitenkaan ottaa muista varoista kuin säästöpankin omain
+          rahastojen tuloista.
+        </p>
+        <p xml:id="i-Rvv2joRp4GgurccFthZtW6">
+          Isännällä ei ole missään tapauksessa oikeutta saada siitä toimestaan
+          palkkiota.
+        </p>
+        <p xml:id="i-DPaUq1xmJHNA7rRePEkFM2">
+          8 8.
+        </p>
+        <p xml:id="i-XyVPimamnfg9xbvCPRUTzN">
+          Säästöpankki älköön käyttäkö muunlaista lainanottoliikettä kuin
+          mikä 1 &amp;:ssä mainitaan; älköönkä säästöpankki sitoutuko muuta
+          kuin määräajan kuluttua irtisanomisen jälkeen maksamaan takaisin
+          talteenpantuja rahoja; kuitenkin on sen hallituksella valta, milloin
+          se haitatta voi tapahtua, myöntää niitä poismaksettavaksi irtisanomisajan
+          umpeen kulumista odottamatta. Satunnaisten rahantarpeiden täyttämiseksi
+          olkoon säästöpankilla oikeus ottaa lainoja ja avata kreditiivitili.
+        </p>
+        <p xml:id="i-FoiHdTbKZGbZKsNTPnN7Wy">
+          Säästöpankin rahoja ei saa lainaksi antaa muuta saamistodistetta
+          kuin velkakirjaa vastaan; ja on, ellei lainaa anneta vaadittaessa
+          takaisin maksettavaksi, velkakirjaan merkittävä vissi, "enintään
+          kuuden kuukauden irtisanomisaika.
+        </p>
+        <p xml:id="i-UjSofLgjuMn4GJ8GbGcdgv">
+          9 8. N
+        </p>
+        <p xml:id="i-VMg5daAMeBjihe9m7TPYKk">
+          Lainaa ei saa säästöpankin varoista antaa velkasitoumusta vastaan,
+          jonka täyttämisestä sen säästöpankin hallituksen jäsen tai varajäsen
+          tahi siinä säästöpankissa palveleva virkamies lainanottajana tai
+          takausmiehenä vastaa.
+        </p>
+        <pb facs="https://swerik-project.github.io/valtiopaivat-handlingar-pdf/1894/ask_1894__II-001-0021.pdf"/>
+        <p xml:id="i-JtP99KD4Zuu2AUYxm1zBjE">
+          Säät. Vast. — Esit. N:o 16. 11 10 8.
+        </p>
+        <p xml:id="i-BN2t8XEpqCF1frYotLo2fF">
+          Säästöpankin varoista on semmoinen määrä, joka vastaa vähintäänkin
+          kymmenettä osaa siitä, mitä säästöönpanijoilla viime tilinpäätöksen
+          mukaan on saamista, tilitettävä helposti rahaksi muutettavina
+          arvopapereina, joita ovat pankkilaitoksen talletustodistukset,
+          valtion, hypoteekkiyhdistyksen tahi muut täysin kelvolliset obligatsionit.
+        </p>
+        <p xml:id="i-XpYcQGo3gRL4TTrtEh1L4H">
+          Edellä mainittujen arvopaperien joukossa saa kuitenkin olla kiinnitettyjä
+          velkakirjojakin, joiden, asianhaaroja tarkkaan punnittua, katsotaan
+          olevan täysin varmoja, ei kuitenkaan enempää kuin että niiden
+          arvo vastaa korkeintaan puolta edellisessä momentissa sanotusta
+          määrästä.
+        </p>
+        <p xml:id="i-Qnva1sBATmZqy2oRD27p9H">
+          Jos olosuhteet vaatisivat että mainitut arvopaperit tahi osa
+          niistä muutetaan rahaksi, niin on säästöpankin varoista sama määrä
+          niin pian kuin suinkin ja ainakin ennen yhden vuoden kulumista
+          samanlaisiksi arvopapereiksi muutettava.
+        </p>
+        <p xml:id="i-SF9Em7Vgb7eEXGdcTEXfU5">
+          11 $.
+        </p>
+        <p xml:id="i-DFBWdVX5ND77Y8QcMkPWH3">
+          Säästöpankki älköön omistako muuta kiinteistöä kuin mihin se
+          on sijoitettavaksi aiottu; kuitenkin olkoon säästöpankilla lupa,
+          milloin se säästöpankin oikeuden suojelemiseksi on tarpeen, huutaa
+          omakseen sen saamisesta pantattua tahi ulosmitattua kiinteätä
+          omaisuutta, joka huutokaupalla myydään; ja on se kiinteistö taas
+          myytävä, milloin sopivaksi harkitaan, ainakin niin pian kuin se
+          saadaan tappiotta myydyksi.
+        </p>
+        <p xml:id="i-FTJ27e8uBwNBfvNTP6fLiy">
+          12 8. Säästöpankissa on pidettävä seuraavia kirjoja: kassakirjaa,
+          jota on kaksi eri henkilöiden pidettävää kappaletta; laskukirjaa,
+          joka näyttää jokaisen säästöön panijan pano- ja ottomäärät sekä
+          saamiset; lainauskirjaa, johon on merkitty säästöpankin anta-
+        </p>
+        <pb facs="https://swerik-project.github.io/valtiopaivat-handlingar-pdf/1894/ask_1894__II-001-0022.pdf"/>
+        <p xml:id="i-28QSBwDWcJ3ifnjtiw8teA">
+          12 Säät. Vast. — Esit. N:o 16.
+        </p>
+        <p xml:id="i-6o1GCphp11KgmwZwf31CsK">
+          mat lainat, niistä maksetut korot ja pääoman-vähennykset sekä
+          lainoista annetut vakuudet;
+        </p>
+        <p xml:id="i-BV5VSLBpB1UVVFDqP14bzm">
+          rekisteriä säästöpankin velallisista, jossa jokaisen velallisen
+          nimen kohdalla mainitaan kaikki hänen sitoumuksensa säästöpankille,
+          olipa hän lainanottaja tahi takausmies; sekä
+        </p>
+        <p xml:id="i-yvktFEjt4NEwhSQkNMWF2">
+          pääkirjaa, johon merkitään säästöpankin varat ja velat joka vuoden
+          alussa ja lopussa.
+        </p>
+        <p xml:id="i-K2wjbNcsL1xtCQf51yAgbx">
+          Säästöpankin hallituksella olkoon kuitenkin valta määrätä muitakin
+          kirjoja pidettäväksi, jos sen sopivaksi katsoo
+        </p>
+        <p xml:id="i-RA8gzh7myvxH5oMsa3Spub">
+          Tilinpäätös on tehtävä kalenterivuodelta ja siitä pitää
+        </p>
+        <p xml:id="i-16SsBsxdPNfnveM7bhoUhp">
+          säästöpankin tilan täydellisesti näkyä.
+        </p>
+        <p xml:id="i-JoaBXwtQnsR86n3drJ1ipY">
+          13 $. Säästöpankin hallituksen tulee pitää sellaista tointa,
+          että säästöpankin kassa, kirjat ja arvopaperit ovat, mikäli olosuhteet
+          myöntävät, turvassa tulenvaaralta ja anastukselta.
+        </p>
+        <p xml:id="i-Ezazmi3SFYWeYe9SDW3MKF">
+          14 8.
+        </p>
+        <p xml:id="i-NNDPHhcxfF7NddByAVFqeX">
+          Säästöpankin hallitus on velvollinen antamaan, sillä tavoin kuin
+          erittäin säädetään, sekä tilastollisia tietoja että muitakin ilmoituksia,
+          jotka säästöpankin toiminnan silmällä pitämiseksi ovat tarpeellisia.
+        </p>
+        <p xml:id="i-Pxfmxp5PnWX2dtWcQgCWjk">
+          15 8.
+        </p>
+        <p xml:id="i-EvSKv6mFit71HLCHCpWbxp">
+          Säästöpankin hallinnon ja tililaskujen tarkastus on vuosittain
+          toimitettava. Tarkastuskertomukseen on pantava säästöpankin varojen
+          ja velkain määrät ja laatu ja tulee sen sisältää yleiskatsaus
+          säästöpankin toimintaan siltä vuodelta, jonka tilintarkastus on
+          käsittänyt.
+        </p>
+        <p xml:id="i-LEC5y1zX1K1LyZ1BCvPEni">
+          16 8.
+        </p>
+        <p xml:id="i-9ecsYNNAUhP9X8CWSRkR1Y">
+          Kaikki säästöpankin liikkeestä lähtevä voitto on pantava erilleen
+          vararahastoksi, josta suoritetaan kulungit ja korvataan kenties
+          syntyvät tappiot. Kuitenkin on lupa säännöissä myöntää että, kun
+          vararahasto tahi, milloin ei ole tehty ehtoa kerätyn kantarahaston
+          takaisinsuorittami-
+        </p>
+        <pb facs="https://swerik-project.github.io/valtiopaivat-handlingar-pdf/1894/ask_1894__II-001-0023.pdf"/>
+        <p xml:id="i-NnCjM7qgLJB9wfZdhG6X6T">
+          Säät. Vast. — Esit. N:o 16. 13
+        </p>
+        <p xml:id="i-4MwBqdpRcjCPZBn5MNQ8vD">
+          sesta, kanta- ja vararahaston yhteenlaskettu määrä on suurempi
+          kuin kymmenes osa tahi joku muu säännöissä määrätty sitä isompi
+          prosenttiluku säästöönpanijain viime tilinpäätöksestä näkyvää
+          saamista, isännät saavat, säästöpankin hallituksen annettua asiasta
+          lausuntonsa, päättää että ylijäämä tahi osa siitä on käytettävä
+          hyväntekeväisiin tahi yleishyödyllisiin tarkoituksiin, ei kuitenkaan
+          semmoisiin, joista kunta tahi seurakunta on velvollinen pitämään
+          huolta. 17 8.
+        </p>
+        <p xml:id="i-MuiidGmDRSMfk9wGNZPqZX">
+          Säästöpankille kerättyä kantarahastoa älköön suoritettako takaisin,
+          ellei säännöissä ole tehty siitä ehtoa, ainakaan ei ennenkuin
+          vararahaston suhde säästöönpanijain saamiseen on semmoinen kuin
+          16 &amp;:ssä sanotaan. Kantarahaston keräys-erille ei lasketa voittoa,
+          eikä niistä makseta korkoa, ellei sitä ole säännöissä nimenomaan
+          määrätty; sitä korkoa älköön kuitenkaan maksettako päälle viiden
+          sadalta vuodessa, älköönkä sen maksamisella rikottako edellämainittua
+          vararahaston suhdetta säästöönpanijain saamiseen.
+        </p>
+        <p xml:id="i-NKQCJbBnUGrJq1eFbs4DaP">
+          18 $.
+        </p>
+        <p xml:id="i-Effo5pW5ADtKoBs3BmTTAd">
+          Kun säästöpankin tilinpäätös näyttää, että säästöpankin kantarahasto
+          tahi, jos on kertynyt vararahasto, tämä ynnä kantarahasto on menetetty,
+          taikka kun, kantarahaston takaisin suoritettua, vararahasto on
+          menetetty, niin on, ellei uutta kantarahastoa kerätä ja säästöönpanijain
+          saamisessa ehkä olevaa vajautta myös täytetä, säästöpankin toiminta
+          keskeytettävä ja säästöpankki pantava suoritustilaan.
+        </p>
+        <p xml:id="i-STZ7dzxvqZ1U3EogqwWcip">
+          19 8.
+        </p>
+        <p xml:id="i-RnfUQj4RzVz9vJFvzAWcCE">
+          Jos joku osa säästöpankin voitosta on käytetty muulla tavalla
+          kuin 16 $ myöntää, niin ne, jotka ovat olleet sitä päättämässä,
+          ovat velvolliset kukin omasta ja toistensa puolesta, säästöpankkiin
+          takaisin maksamaan mitä siten on oikeudettomasti pois maksettu.
+          Jos 18 8:n määräystä ei noudateta, niin ne, jotka ovat sellaiseen
+          laiminlyömiseen
+        </p>
+        <pb facs="https://swerik-project.github.io/valtiopaivat-handlingar-pdf/1894/ask_1894__II-001-0024.pdf"/>
+        <p xml:id="i-N352AYPcDGyzS2DDqzPEjt">
+          14 Säät. Vast. Esit. N:o 16.
+        </p>
+        <p xml:id="i-KVRvczkXKp3GW6KbCynmVG">
+          vikapäät, ovat, niinikään kukin omasta ja toistensa puolesta,
+          säästöönpanijoille vastuunalaiset heidän saamistensa täysin maksamisesta.
+        </p>
+        <p xml:id="i-3iVChQawkNrHbTfxxiGnrU">
+          Muuten isännät ja hallituksen jäsenet ovat ainoastaan niiden
+          perustusten mukaan, jotka yleinen laki toimitsijoille säätää,
+          vastuunalaiset säästöpankille uskotuista varoista, elleivät ole
+          erittäin sitoutuneet enempään vastuunalaisuuteen.
+        </p>
+        <p xml:id="i-Ubwyif7xTBi5KPAeALAuDG">
+          20 8.
+        </p>
+        <p xml:id="i-VcBcGLTnho1yp8hpyhN87K">
+          Jos säästöpankkia on hoidettu vastoin tämän asetuksen tahi säästöpankille
+          vahvistettujen sääntöjen määräyksiä, tahi jos on perusteellista
+          syytä varoa sellaista asianlaitaa, kuin 18 &amp;:ssä mainitaan, tulee
+          kuvernöörin, sen viranomaisen esityksestä, jolle säästöpankin
+          toiminnan silmälläpito on uskottuna, pannen jonkun ajan ja uhan,
+          määrätä muistutettu virhe korjattavaksi tahi säästöpankki pantavaksi
+          suoritustilaan taikka sellainen kanne, johon ehkä on syytä, nostettavaksi,
+          vaikka asianomistaja ei olekaan sitä vaatinut.
+        </p>
+        <p xml:id="i-6SQZcvTRoquy1X21E3g9Zy">
+          21 8.
+        </p>
+        <p xml:id="i-8hiR3maRxngHqwtSX6dURn">
+          Kun ensi kertaa pannaan rahaa säästöpankkiin, ilmoitettakoon
+          sen henkilön nimi, kotipaikka ja elinkeino, jonka hyväksi säästöönpano
+          tehdään, niin myös hänen syntymävuotensa, -kuukautensa ja -päivänsä,
+          jos ne tiedetään. Kun säästöönpano tehdään alaikäisen puolesta,
+          ovat myöskin, jos mahdollista, hänen vanhempainsa nimet ilmoitettavat.
+          Nämä ilmoitukset merkitään säästöpankin laskukirjaan.
+        </p>
+        <p xml:id="i-NAgR2UsvWaCqiC6426Z5dX">
+          Jos se, joka toisen hyväksi panee rahoja säästöön, tahtoo ettei
+          niitä kävisi maksettavaksi irtisanominen ennenkuin määräajan jälkeen,
+          tehköön siitä ehdon ensimäisellä. säästöönpano-kerralla. Jos hän
+          samalla tahtoo tehdä rahain poismaksusta jonkun muun ehdon, niin
+          on säästöpankin hallituksella valta tutkia, otetaanko rahat sillä
+          ehdolla vastaan.
+        </p>
+        <pb facs="https://swerik-project.github.io/valtiopaivat-handlingar-pdf/1894/ask_1894__II-001-0025.pdf"/>
+        <p xml:id="i-CinL2Wuvg3T1chb8K3A2Uv">
+          Säät. Vast. — Esit. N:o 16. 15
+        </p>
+        <p xml:id="i-C9jxkDoc76Ypz6xCeVViyX">
+          22 8.
+        </p>
+        <p xml:id="i-K64EWL6nLt2ABUS7VEjeRs">
+          Kun joku ensi kertaa panee rahoja säästöpankkiin, annettakoon
+          hänelle ilmaiseksi järjestysnumerolla varustettu vastakirja, johon
+          säästöpankin säännöt on painettu. Siihen vastakirjaan merkitään
+          myös ehto, joka 21 Sn mukaan tehdään.
+        </p>
+        <p xml:id="i-BLa5e9qrBksYC3iEj592C6">
+          Säästöpankin tallessa olevia rahoja annetaan sille, joka on vastakirjan
+          haltija ja sen esiintuo, ellei rahoja ole pankkiin pantu sillä
+          ehdolla, että ne saa ottaa pois ainoastaan joku vastakirjassa
+          niiden ottajaksi mainittu henkilö, jolloin ainoastaan hänellä
+          tahi hänen oikeudenhaltijoillaan on valta irtisanoa ja nostaa
+          tallella oleva määrä.
+        </p>
+        <p xml:id="i-DHqmb8HQVC2TtLyssDWCWW">
+          Kun pano tahi otto tehdään, merkitään määrä vastakirjaan, jonka
+          ohessa kaksi säästöpankin virkamiestä tahi hallituksenjäsentä
+          merkitsee sen kumpikin eri kappaleesensa säästöpankin kassakirjaa.
+        </p>
+        <p xml:id="i-D5kHhcyCgfQDKrFfReeqN5">
+          23 8.
+        </p>
+        <p xml:id="i-LB3B3VUBaVBt1zfBNaYCCZ">
+          Jos 22 &amp;:n 2 momentissa mainitulla ehdolla on rahoja vaimon varalla
+          säästöpankissa tahi alaikäinen, joka on täyttänyt viisitoista
+          vuotta, on rahoja sinne säästöön pannut, älköön edusmies olko
+          oikeutettu rahoja irtisanomaan eikä nostamaan ilman vaimon tahi
+          alaikäisen suostumusta.
+        </p>
+        <p xml:id="i-8PgppGHbD4W35gBp93BaAF">
+          24 8.
+        </p>
+        <p xml:id="i-UnuZUCSGfmQvhXgNWyiotf">
+          Vastakirja on säännöissä mainittuna aikana todistusta vastaan
+          annettava säästöpankkiin sen tilikirjoihin verrattavaksi; ja lähimmän
+          edellisen vuoden loppuun asti juossut korko on silloin myös vastakirjaan
+          merkittävä, jos sitä ei ole ennen tehty.
+        </p>
+        <p xml:id="i-9j7XzV5ocGfzp93KNURXE2">
+          Jos ei vastakirjaa, joka on annettava säästöpankkiin sen tilikirjoihin
+          verrattavaksi, määräajassa siellä näytetä, ja jos sittemmin ilmestyy
+          eroavaisuutta vastakirjan ja säästöpankin =tililaskujen välillä
+          säästöönpanoihin tahi poisottoihin nähden, niin olkoon tililaskuilla
+          todistusvoima, ellei jokin seikka vähennä niiden uskottavaisuutta.
+        </p>
+        <pb facs="https://swerik-project.github.io/valtiopaivat-handlingar-pdf/1894/ask_1894__II-001-0026.pdf"/>
+        <p xml:id="i-PaBzYAD8h6o3C2xZtPykTT">
+          16 Säät. Vast. — Esit. N:o 16.
+        </p>
+        <p xml:id="i-VAjCBbR5a4hezfShEvmz6w">
+          25 8.
+        </p>
+        <p xml:id="i-2s69DUTk7X4DpQ1FXCJkaD">
+          Jos vastakirja on joutunut hukkaan, tulee sen, jolta se on hävinnyt,
+          viipymättä antaa se säästöpankin hallitukselle tiedoksi ja samalla
+          ilmoittaa milloin ja miten se on hävinnyt. Hallituksen pitää silloin
+          tiedustella vastakirjaa kuulutuksella, joka on sen kustannuksella,
+          jolta vastakirja on hävinnyt, kolmasti julkaistava maan virallisissa
+          sanomalehdissä ja julkiluettava paikkakunnan kirkoissa. Jos vastakirjaa
+          ei ole takaisin saatu kuudessa kuukaudessa sen jälkeen kuin semmoinen
+          kuuluttaminen on viimeisen kerran tapahtunut, niin se, jonka puolesta
+          kuuluttaminen on toimitettu, on oikeutettu saamaan pois koko saamisensa;
+          eikä vastakirjalla ole voimaa säästöpankkia vastaan sen perästä
+          kuin rahat on pois maksettu.
+        </p>
+        <p xml:id="i-PAquJySJSWQFxHr5tZUebT">
+          26 8.
+        </p>
+        <p xml:id="i-4T5HLArMmLLKDqBPcS1EZP">
+          Kun kymmenen vuotta on kulunut viimeisen vuoden lopusta, jolta
+          korko säästöpankissa sisällä-olevista varoista on, 24 &amp;:n määräyksen
+          mukaan, vastakirjaan kirjoitettu, tahi jos panoja tahi ottoja
+          sittemmin on tehty, siitä päivästä, jona se viimeksi on tapahtunut,
+          niin tulee säästöpankin hallituksen maan virallisissa sanomalehdissä
+          ja paikkakunnan kirkoissa kuuluttamalla kehottaa vastakirjan haltijaa,
+          yön ja vuoden kuluessa siitä kuin kuulutus ou siten kolmannen
+          kerran julkaistu, säästöpankin hallitukselle ilmoittamaan sitä
+          saamista vaativansa. Jos ei semmoista ilmoitusta tehdä, menettäköön
+          vastakirjan haltija puhevaltansa säästöpankkia vastaan ja rahamäärä
+          siirrettäköön säästöpankin omiin rahastoihin.
+        </p>
+        <p xml:id="i-93RBg14s1sRvG1dNe1Mfis">
+          Laajempi oikeus säästöönpantujen rahain takaisinsaamiseen, kuin
+          ylempänä sanottu on, saadaan kuitenkin myöntää vastakirjan haltijalle
+          erityisellä, säästöpankin sääntöihin pantavalla määräyksellä.
+        </p>
+        <p xml:id="i-JEWtT8X7rtfiYevFjBB42F">
+          27 8. Kun säästöpankki päätetään lakkauttaa, haettakoon säästöpankin
+          tuntemattomille velkojille vuosihaaste.
+        </p>
+        <pb facs="https://swerik-project.github.io/valtiopaivat-handlingar-pdf/1894/ask_1894__II-001-0027.pdf"/>
+        <p xml:id="i-8BdTACh6DbrBAQRTG7NYHp">
+          Säät. Vast. — Esit. N:o 16. 17
+        </p>
+        <p xml:id="i-BZdYY1uVf2HQcUE7GsAzXW">
+          Jos jääpi säästöä, sittenkuin kaikki säästöpankin sitoumukset
+          on täytetty, on se käytettävä hyväntekeväisiin tahi yleishyödyllisiin
+          tarkoituksiin, semmoisiin kuin 16 $:ssä sanotaan.
+        </p>
+        <p xml:id="i-GcQAfWEiF3UYgzRUcsaKcc">
+          28 8.
+        </p>
+        <p xml:id="i-PjC8v8k5xMiorQNn99bGh3">
+          Säästöpankin säännöissä pitää, paitsi mitä tässä asetuksessa
+          ennen on siitä säädetty, olla määrättynä:
+        </p>
+        <p xml:id="i-8AkdP56YyVtiY74zuBnaHc">
+          laitoksen nimi, jota se liikkeessään käyttää; ja tulee liikkeen
+          laadun ilmaisemiseksi nimessä olla sana ,säästöpankki*;
+        </p>
+        <p xml:id="i-NiEgHvyVkhGtVRPXDrdbN6">
+          se paikkakunta, joka on hallituksen olopaikka;
+        </p>
+        <p xml:id="i-NV9nExBjv9iMCBCDyQoPSW">
+          säästöpankin kantarahaston vähin määrä;
+        </p>
+        <p xml:id="i-RjrqrvrryASoRwP4i5JxQk">
+          isäntäin luku ja se aika, joksi heidät valitaan, kuinka monta
+          heistä vähintäänkin pitää olla saapuvilla, ennenkuin voivat pätevän
+          päätöksen tehdä, isäntäin toimivalta, heidän varsinaisten kokoustensa
+          aika ja paikka sekä se tapa, miten varsinaiset niinkuin erityisetkin
+          kokoukset kuulutetaan ;
+        </p>
+        <p xml:id="i-2nReToYBVbuPYMh223KBv2">
+          hallituksen jäsenten ja varajäsenten lukumäärä, aika, joksi heidät
+          valitaan, sekä hallituksen tehtävät ja päätöksen voipaisuus;
+        </p>
+        <p xml:id="i-DHwmA4SaKt8YQV3Bc4EYJZ">
+          tilintarkastajain lukumäärä sekä aika, milloin tilinpäätös on
+          tehtävä ja tilintarkastus toimitettava;
+        </p>
+        <p xml:id="i-XWVn9oTTeg8uf5deiyMUeZ">
+          vähin määrä, minkä saa säästöpankkiin panna, ja enin saaminen,
+          josta yhdelle panijalle maksetaan korkoa;
+        </p>
+        <p xml:id="i-QvDhgeeteSwM7CEH4uQgs7">
+          se tapa, miten lainanotto- ja lainanantokorosta päätös tehdään
+          ja kuulutetaan;
+        </p>
+        <p xml:id="i-JidxgpkiCQwRyRNCjhHGG7">
+          so aika irtisanomisen perästä, jolloin säästöpankki on velvollinen
+          takaisin maksamaan siihen pantuja rahoja; ja on se aika -määrättävä
+          nostettavan summan suuruuden mukaan, kuitenkin niin ettei irtisanomisaika
+          milloinkaan saa olla yhtä viikkoa vähempi;
+        </p>
+        <p xml:id="i-WxGWjBc4zMKC1DpsiEW6yE">
+          se tapa, miten säästöpankin puolelta sanotaan irti siihen pantuja
+          rahoja;
+        </p>
+        <p xml:id="i-T1a4iXFqwuvNMq9zrcSNgk">
+          kassan ja arvopaperien tallottaminen ja inventeeraus; niin myös
+        </p>
+        <p xml:id="i-MHnjC3hkSUPWcJ7sAXWSK1">
+          2
+        </p>
+        <pb facs="https://swerik-project.github.io/valtiopaivat-handlingar-pdf/1894/ask_1894__II-001-0028.pdf"/>
+        <p xml:id="i-VspBurEnwCzsg9S24pfh2d">
+          18 Säät. Vast. — Esit. N:o 16.
+        </p>
+        <p xml:id="i-DwX8Wb3TbgPkRjZ1Waj62A">
+          se tapa, miten päätös sääntöjen muuttamisesta ja säästöpankin
+          lakkauttamisesta tehdään.
+        </p>
+        <p xml:id="i-9GoEmdjGawdKqz3MJgKBTQ">
+          29 8. Säästöpankki on niihin asioihin nähden, joista laissa ei
+          toisin säädetä, sen paikkakunnan julkisen alioikeuden alainen,
+          missä säästöpankin hallituksen olopaikka on.
+        </p>
+        <p xml:id="i-QyaiD5zPJK8wgiwVbz1snq">
+          30 8.
+        </p>
+        <p xml:id="i-SPotCyMFyuied1LHGcgabG">
+          Jos rahalaitos, joka on tämän asetuksen määräysten alainen, ryhtyy
+          toimeensa ennenkuin on 3 &amp;:n mukaan saanut sääntönsä vahvistetuiksi,
+          olkoon se, joka sillä välin tekee sitoumuksia semmoisen laitoksen
+          puolesta, niistä vastuunalainen niinkuin omasta velastaan; jos
+          heitä on useampia, vastatkoot niistä kukin omasta ja toistensa
+          puolesta.
+        </p>
+        <p xml:id="i-1hpLRj1zD7UYs6SRCUawe">
+          31 8.
+        </p>
+        <p xml:id="i-K7Yt4juevmGd2GaNB2PoxT">
+          Tämä asetus astuu voimaan ja koskee jo oleviakin laitoksia, jotka
+          käyttävät senlaatuista liikettä kuin 1 &amp;:ssä sanotaan; ja olkoon
+          semmoinen säästöpankki velvollinen, kahdessa vuodessa mainitusta
+          päivästä lukien, 3 8:n määräyksen mukaan hakemaan vahvistusta
+          tämän asetuksen mukaisesti laadituille säännöille sekä kymmenessä
+          vuodessa samasta päivästä lukien ottamaan noudattaakseen 10 8:ssä
+          olevaa määräystä, että kymmenesosa säästöönpanijain saamisesta
+          on tilitettävä visseinä arvopapereina. Muuten tämä asetus ei rajoita
+          jo olevan säästöpankkilaitoksen perustajilla taikka muilla, vanhempain
+          sääntöjen tai muuten pannun ehdon mukaan, ehkä olevaa oikeutta
+          saada takaisin kerättyä rahastoa tahi siitä nauttia korkoa; samoin
+          semmoinen säästöpankki ei ole, elleivät sen säännöt toisin määrää,
+          velvollinen hankkimaan itselleen kantarahastoa; ja on sellainen
+          säästöpankki pantava suoritustilaan, kun tehdyn tilinpäätöksen
+          mukaan vajaus on syntynyt säästöönpanijain saamisiin.
+        </p>
+        <pb facs="https://swerik-project.github.io/valtiopaivat-handlingar-pdf/1894/ask_1894__II-001-0029.pdf"/>
+        <p xml:id="i-Scn6ecst5ohpdHbHxT9qRd">
+          Säät. Vast. — Esit. N:o 16. 19
+        </p>
+        <p xml:id="i-E6MufTmVRcxEoRQfXAyaKs">
+          Armollisen esityksen kautta ovat Säädyt, niinkuin edellä on mainittu,
+          myös saaneet tilaisuuden antaa lausuntonsa siitä julistusehdotuksesta,
+          joka on aiottu hallinnollista tietä asiasta julkaistavaksi.
+        </p>
+        <p xml:id="i-TzVyeFxg5R5EorboKhYhEq">
+          Niistä mainitussa julistuksessa olevista säännöksistä, jotka
+          Säätyjen mielestä ovat siirrettävät edellä mainittuun asetusehdotukseen,
+          ovat Säädyt ennemmin lausuneet mielipiteensä. Muista säännöksistä
+          lienee erityisesti huomautettava seuraavaa:
+        </p>
+        <p xml:id="i-TgWUStt4vzxSeShtTumCEt">
+          1 S:n 2 momentin mukaan on Senaatin valtaan jätetty määrätä,
+          minkä verran säästöpankin tulisi, sen liikkeen laajuuteen katsoen,
+          osaltansa maksaa tarkastajan palkkaamiseen. Niinkuin edellä on
+          esitetty, ovat Säädyt katsoneet pitävänsä ehdottaa, että säästöpankkien
+          tulee olla vapaat tarkastajan palkkaamisen velvollisuudesta, jonka
+          vuoksi ja kun 2 momentin määräys niin ollen ei ole tarpeen vaatima,
+          se lienee jätettävä pois.
+        </p>
+        <p xml:id="i-6e592ovJDuYdfSzHXPYFZN">
+          4 S:n 2 momentin mukaan on isäntäin ja hallituksen kokouksissa
+          pöytäkirjaan merkittävä, muun muassa, ne henkilöt, jotka ovat
+          päätökseen vaikuttaneet. Sellaisen ilmoituksen pitävät Säädyt
+          tarpeettomana, koska kaikista kokouksessa läsnäolevista ne, jotka
+          eivät ole tahtoneet yhtyä päätökseen, vastalauseessa voivat ilmoittaa
+          eriävän mielipiteensä.
+        </p>
+        <p xml:id="i-2S1CAk7CAUpo5uLjecr4Xb">
+          Siihen katsoen, mitä ennen on lausuttu säästöpankissa pidettävistä
+          kirjoista, pitänee 5 $ jättää pois.
+        </p>
+        <p xml:id="i-H1K68QEu4Gzrr6Wjf7zZ8i">
+          Mitä 8 S:ään tulee ovat Säädyt, niiden samanlaatuisten määräyksien
+          vuoksi, jotka ovat 11 $:ssä, katsoneet pitävänsä ehdottaa, että
+          mainitut pykälät yhdistettäisiin.
+        </p>
+        <p xml:id="i-KNmrTXdUtrUdvGSPb7bpmA">
+          Sen nojalla, mitä ennen on lausuttu 9 ja 10 8:stä, joista erityisiä
+          määräyksiä on siirretty säätyasetukseen, käynee näiden pykäläin
+          uudestaan muodostaminen tarpeen vaatimaksi.
+        </p>
+        <p xml:id="i-Shze6YY3bGmZYaYSwDYxJj">
+          Mitä tulee 13 $:ään, jossa säädetään, että kuvernöörin antama
+          päätös on menevä täytäntöön, vaikka siitä onkin valitettu, jollei
+          Senaatti toisin määrää, ovat Säädyt arvelleet
+        </p>
+        <pb facs="https://swerik-project.github.io/valtiopaivat-handlingar-pdf/1894/ask_1894__II-001-0030.pdf"/>
+        <p xml:id="i-BHJFxhnBcYLkvJe45L4SCc">
+          20 Säät. Vast. — Esit. N:o 16.
+        </p>
+        <p xml:id="i-PabQPvWTboBbUA9rmegCL5">
+          pitävänsä lausua, että mainitun säännöksen tulisi koskea ainoastaan
+          niitä päätöksiä, jotka tarkoittavat säästöpankin asettamista suoritustilaan.
+        </p>
+        <p xml:id="i-RoM2pXM31psqCK1dBLH5QG">
+          Vihdoin lienee huomautettava, että suomalaisen tekstin 12 ja
+          13 $:ssä sana ,lain* olisi vaihdettava sanaksi njulistuksen*.
+          N
+        </p>
+        <p xml:id="i-RzNEwZB9rnjPUn5FMnSHFK">
+          Suomenmaan Säädyt ovat alati j. n. e.
+        </p>
+        <p xml:id="i-KGYoCVztTTMvLCSKQCSW8W">
+          Helsingissä, 31 päivänä Toukokuuta 1894.
+        </p>
+        <p xml:id="i-Tc86eoP9BzGyNJAdEnQWtu">
+          Helsingissä, Weilin ja Göös'in osakeyhtiön kirjapainossa 1894.
+        </p>
+        <pb facs="https://swerik-project.github.io/valtiopaivat-handlingar-pdf/1894/ask_1894__II-001-0031.pdf"/>
+        <p xml:id="i-6whvc3GGr5imb6JXL7noiW">
+          :o 19.
+        </p>
+        <p xml:id="i-B9CpZigHDQKTfDsYKptYeE">
+          Keisarillisen Majesteetin armollinen esitys Suomenmaan Valtiosäädyille
+          erityisistä muutoksista evankelis-lutherilaiselle seurakunnalle
+          Suomessa 525ijumea 1868 armollisimmasti vahvistettuun ja 6 p:nä
+          Joulukuuta 1869 annettuun kirkkolakiin.
+        </p>
+        <p xml:id="i-RYiMnsJkNMsR6u8rCzLbPC">
+          Sittenkuin evankelis-lutherilaiselle seurakunnalle Suomessa annetun
+          kirkkolaiä 14 ja 455 &amp;:n säätämässä järjestyksessä oli nostettu
+          erityisiä kysymyksiä muutoksista samaan kirkkolakiin ja nämät
+          olivat olleet valmistelevan käsittelyn alaisina, on Turun kaupungissa
+          Kesäkuulla 1893 ko'ossa ollut kolmas yleinen seurakuntakokous
+          eli kirkolliskokous tehnyt ehdotuksia kirkkolain muutoksiksi eräissä
+          kohdin sekä, vastamainittuin lainkohtain mukaan, alistanut nämät
+          ehdotukset Keisarillisen Majesteetin ja maan Valtiosäätyjen tutkittaviksi
+          ja hyväksyttäviksi.
+        </p>
+        <p xml:id="i-M579vE3XxvXaaxsvbsnjD5">
+          Puheena olevat ehdotukset tarkoittavat kirkkolain muuttamista
+          seuraavissa kohdin:
+        </p>
+        <p xml:id="i-44Fsxoeafg7GszWPiTrVqy">
+          Keisarillisessa asetuksessa 19 p:ltä Joulukuuta 1864 on säädetty,
+          että kirkonrangaistusta älköön siitä lähtien kellenkään tuomittako
+          älköönkä siis oikeuskaan sellaista rikoksen seuraamusta päätökseensä
+          panko, kuitenkin niin, että sitä miestä tahi vaimoa, joka on käynyt
+          syypääksi rikokseen, josta ennen kirkonrangaistus on seurannut,
+          älköön laskettako Herran ehtoolliselle ennenkuin hän on käynyt
+          salaripin ja silloin saanut synninpäästön; mutta koska kirkkolain
+          65 &amp;n c) kohta sisältää ainoastaan yleisen määräyksen
+        </p>
+        <pb facs="https://swerik-project.github.io/valtiopaivat-handlingar-pdf/1894/ask_1894__II-001-0032.pdf"/>
+        <p xml:id="i-WMzaz48CVm8Z5Dz9RRBgjs">
+          2 N:o 17.
+        </p>
+        <p xml:id="i-6ZwqWm8YFCpjg8EteqXJqJ">
+          että ehtoolliselle älköön päästettäkö niitä, jotka maallinen:
+          laki on rikoksesta tuominnut, niin kauvan kuin eivät nöyrry erityistä
+          rippiä tekemään, on epäilystä syntynyt niitten rikosten laadusta,
+          jotka vaativat erityistä rippiä, jonka vuoksi kirkolliskokous
+          on ollut sitä mieltä, että ne rikokset, joista erityinen rippi
+          on tapahtuva, olisivat kirkkolaissa lueteltavat ja sitä varten
+          tehnyt ehdotuksen 65 $:n c) kohdan muuttamiseksi, sen ohessa että
+          sanotun kohdan jälkimäinen osa on eroitettu neljänneksi d) kohdaksi,
+          joka niinikään olisi muutettava vähän toisin kuuluvaksi.
+        </p>
+        <p xml:id="i-UKAUexJtiPsKu6vXE4tQi6">
+          Koska kirkolliskokouksella on ollut se ajatus: että kirkkolain
+          13 luvussa säädettyä kirkkokuria on liian vähässä. määrässä käytetty;
+          että yhtenä syynä tähän on ollut se, että kirkollisten viranomaisten
+          ei ole katsottu saattavan ryhtyä kirkkokurin käyttämiseen sitä
+          vastaan, joka, kutsumuksen saatuaan, on niskoitellut saapumasta
+          kirkkoherran, kirkkoraadin tahi tuomiokapitulin eteen, jollei
+          niskoittelevaa ole yhteiskunnallisen lain voimalla tuotettu kirkollisten
+          viranomaisten eteen; että semmoisen ulkonaisen vallan käyttäminen
+          on tuntunut vastenmieliseltä eikä itse teossa olekaan kirkon olennon
+          kanssa sopusoinnussa; ja että kirkko olisi saatettava tilaisuuteen
+          käyttämään piiriinsä kuuluvia kurinkeinoja nojaumatta yhteiskunnallisten
+          viranomaisten apuun, on kirkolliskokous, tämän epäkohdan auttamiseksi,
+          ebdottanut että kirkkolain 100, 101, 102, 103, 104 ja 394 $ muutettaisiin
+          toisin kuuluviksi.
+        </p>
+        <p xml:id="i-FJt3DH8b3mcMoX2RNojdpW">
+          Jotta 106 &amp;:stä selvästi kävisi ilmi tuomiokapitulin valta erityisissä
+          tapauksissa peruuttaa maallikolle annettu lupa saarnata ja käydä
+          kristinopin opettamiseen seurakunnassa osalliseksi, on kirkolliskokous
+          ehdottanut mainittuun S:ään pantavaksi määräys siitä, että piispa
+          ja tuomiokapituli saisivat antaa sellaisen luvan toistaiseksi.
+        </p>
+        <p xml:id="i-gEt1JzBLoehoZQHpebLmd">
+          Kirkkolain 125 &amp;:n mukaan pitää papin, joka vihkii ennenkuin
+          kuulutus asianomaisessa järjestyksessä on tapahtunut, taikka sellaiset
+          henkilöt, joiden ei ole lupa mennä toistensa kanssa avioliittoon,
+          taikka antaa todistuksen esteettömyydestä vihkimiseen, missä esteitä
+          löytyy, menettä-
+        </p>
+        <pb facs="https://swerik-project.github.io/valtiopaivat-handlingar-pdf/1894/ask_1894__II-001-0033.pdf"/>
+        <p xml:id="i-VQoyE9ZzxpMbFr2PoMQBRZ">
+          N:o 17. 3
+        </p>
+        <p xml:id="i-Wduu6AYmNjEb3Y2XugxGgC">
+          män virkansa, olkoonpa se tapahtunut tahallansa tai tahattaan.
+          Koska kuitenkin syyllisyyden määrä on erilainen tahallisessa rikoksessa
+          ja semmoisessa, joka on tahtomatta tehty, sekä rikollinen myöskin
+          jälkimäisessä tapauksessa saattaa olla enemmän tai vähemmän syyllinen,
+          on kirkolliskokous ehdottanut semmoisen muutoksen vastamainittuun
+          S:ään, että viran menettäminen pysytetään ainoastaan tahallisen
+          virheenteon rangaistuksena, mutta tahatta tehdystä virheestä tuomitaan
+          lievemmänlaatuiseen rangaistukseen eli vähintään kolmen kuukauden
+          ja enintään yhden vuoden virkaeroon.
+        </p>
+        <p xml:id="i-7iMkw69tthFn9eQfeqzeQK">
+          Papinvirkoihin asettamisesta on kirkolliskokous lausunut:
+        </p>
+        <p xml:id="i-SRAS8A4aN7DdM77EKwwoyi">
+          että papinviran hakemusaika on liian pitkä ja olisi lyhennettävä
+          90 päivästä 60 päiväksi;
+        </p>
+        <p xml:id="i-WKo2oSAR4Dhq9TX4sMFc6K">
+          että neljännen vaalisaarnaajan pyytämistä ei tulisi varteen ottaa,
+          ellei sellaista pyyntöä kannata vähintään viidesosa seurakunnan
+          koko ääniluvusta, vaikk'ei erimielisyyttä siinä olisikaan ilmaantunut;
+        </p>
+        <p xml:id="i-2AFUZCDS2owHbjSbz5rv9y">
+          että jos vaan yksi hakija on ehdolle pantu ja seurakunta kysymyspäivänä
+          on ilmoittanut siihen tyytyvänsä, tämä muitta menoitta olisi valituksi
+          katsottava; ja
+        </p>
+        <p xml:id="i-RSyB5k66hjDnY5e2uLGtLJ">
+          että sellaiseen papinvirkaan nimitettäissä, johon tuomiokapitulilla
+          on nimittämisoikeus, olisi, jos neljäs vaalisaarnaaja ei ole saanut
+          kolmea neljännestä vaalissa annetuista äänistä, virkavahvistuskirja
+          annettava sille muista vaalipapeista, joka on saanut korkeimman
+          ääniluvun, siihen vaaliehdotussijaan katsomatta mikä hänellä oli.
+        </p>
+        <p xml:id="i-AfLTuUs9tv28Dp9tu5qU4f">
+          Ja on kirkolliskokous tämän johdosta tehnyt ehdotuksen 166, 205,
+          207 ja 243 $:n muuttamiseksi kuin myös niihin muutoksiin 196,
+          198, 216, 232 ja 242 $:ssä, joihin 207 S:n muuttaminen antaa aihetta.
+        </p>
+        <p xml:id="i-tqH5qaEH7xn3Enjhamhct">
+          Edelleen on kirkolliskokous, koska ne kymmenen vuotta, jotka
+          450 &amp;:ssä ovat määrätyt laillisaikaisten kirkolliskokousten väliajaksi,
+          vaikuttavat laimistuttavasti kirkon virkeyteen ja vaikeuttavat
+          tarpeellisen yhtäjaksoisuuden ylläpitämistä kirkollisessa lainsäädännössä,
+          vieläpä sälyttävät jo-
+        </p>
+        <pb facs="https://swerik-project.github.io/valtiopaivat-handlingar-pdf/1894/ask_1894__II-001-0034.pdf"/>
+        <p xml:id="i-7SF4mMDjkPqfkvXHg2SEjG">
+          4 N:o 17.
+        </p>
+        <p xml:id="i-GwNXLr1ScVv6w2RWbpu54d">
+          kaiselle kirkolliskokoukselle niin paljon asioita, ett'ei niitä
+          kaikkia ehditä loppuun käsitellä sen ajan kuluessa, jonka kirkolliskokous
+          on oikeutettu ko'ossa olemaan, ehdottanut, että mainittu väliaika
+          lyhennettäisiin ja määrättäisiin viideksi vuodeksi, samoin kuin
+          mitä 437 S:ssä on säädetty siitä ajasta, jonka kuluessa pappeinkokoukset,
+          joilla erityisissä kohdin on yhteyttä kirkolliskokousten kanssa,
+          ovat kokoonkutsuttavat; ja vihdoin on kirkolliskokous huomannut,
+          että 456 $:ssä olevat määräykset siitä tavasta, jolla kirkolliskokouksessa
+          on äänestettävä, tarvitsevat selventämistä.
+        </p>
+        <p xml:id="i-J2RMJ1USymY9MChBcFx8rg">
+          Kirkkolain 455 $:n nojalla on Keisarillinen Majestetti tahtonut
+          Valtiosäätyjen käsiteltäväksi jättää nämät muutosehdotukset, ollen
+          ne näin kuuluvat:
+        </p>
+        <p xml:id="i-9bahNANcEVYtiauBfkZWZX">
+          Ehdotus siitä, että alempana luetellut $$ kirkkolaissa evankelis-lutherilaiselle
+          seurakunnalle Suomessa 6 p:ltä Joulukuuta 1869 muutetaan toisin
+          kuuluviksi. |
+        </p>
+        <p xml:id="i-26WejNwib5oMwihsEitUUT">
+          65 8.
+        </p>
+        <p xml:id="i-4mJmSRZQK4M975ZmqcGdaK">
+          Pyhälle ehtoolliselle älköön päästettäkö:
+        </p>
+        <p xml:id="i-GMY9KnFpurky4N495oY4ut">
+          4) niitä, jotka eivät vielä ole opetetut ja ripille lasketut,
+          niinkuin VI luvussa säätty on, ellei niin ole, että he tautivuoteella
+          sitä erinomaisesti halajavat ja sen arvon käsittävät ;
+        </p>
+        <p xml:id="i-XkwGZXq3dD2HwMViPUT27L">
+          5) mielipuolia, niin kauvan kuin ovat mielen puutteessa ;
+        </p>
+        <p xml:id="i-Fs23aE8hbCBve6Mzi6q5u3">
+          e) niitä, jotka lainvoiman voittaneella tuomioistuimen päätöksellä
+          ovat tuomitut kuolemanrangaistukseen, mutta armosta ovat saaneet
+          henkensä säilyttää, tahi kuritushuonerangaistukseen, taikka rangaistukseen
+          siitä, että ovat herjanneet Jumalaa tahi soimanneet tahi pilkanneet
+          Jumalan pyhää sanaa tahi sakramenttejä, tahi häirinneet julkista
+          jumalanpalvelusta, taikka väärästä valasta, taikka suoraan ylene-
+        </p>
+        <pb facs="https://swerik-project.github.io/valtiopaivat-handlingar-pdf/1894/ask_1894__II-001-0035.pdf"/>
+        <p xml:id="i-jzpsgLfriLW93obYg8B3G">
+          N:o 17. 5
+        </p>
+        <p xml:id="i-BWLGgr7YctiGWioZMUxLuE">
+          vässa polvessa olevan sukulaisen tahallisesta pahoinpitelemisestä,
+          tahi hänen kunniansa loukkaamisesta, taikka taposta, myöskin jos
+          se on tapahtunut varomattomuudesta, taikka varkaudesta, näpistelemisestä
+          tahi väärennyksestä, taikka väkisinmakaamisesta, taikka kaksinnaimisesta
+          tahi muusta aviorikoksesta, taikka salavuoteudesta tahi muusta
+          haureudesta, eikä myöskään naista, joka on synnyttänyt aviottoman
+          lapsen, tahi hänen tunnettua makaajaa, kunnes rikoksellinen ylläluetelluissa
+          tapauksissa on nöyrtynyt erityistä rippiä tekemään. Kuitenkin
+          olkoon sieluupaimenella oikeus harkita onko säälittävissä tapauksissa
+          Herran ehtoollisen nautitseminen sallittava ilman tällaista erityistä
+          rippiä.
+        </p>
+        <p xml:id="i-6fgkmUHhnFtbBAYCKcYuy8">
+          d) sitä, joka XIII luvun säännösten mukaisesti on määrätty ehtoollisen
+          nauttimisesta toistaiseksi suljettavaksi, ellei sielunhoitaja,
+          sittekun ehtoollisesta suljettu on syntinsä tunnustanut ja anteeksi
+          pyytänyt niinkuin 101 :ssä sanotaan, näe pakottavia syitä olevan
+          antaa hänelle ehtoollista.
+        </p>
+        <p xml:id="i-UEoWMtSWcShxRzLpk9oz81">
+          100 8.
+        </p>
+        <p xml:id="i-YSZtx8xREVfawLqh8bfkgr">
+          Niiden suhteen, jotka pahanilkisellä elämällä taikka väärällä
+          opilla taikka kristillisten velvollisuuttensa laiminlyömisellä
+          saattavat pahennusta seurakunnassa, pidettäköön kristillistä kirkkokuria.
+        </p>
+        <p xml:id="i-2uoMGnNkk9TAWbF97tH2no">
+          101 8.
+        </p>
+        <p xml:id="i-Dp9HRvazgdCWXVbUWvrfjo">
+          Jos joku seurakunnassa havaitaan paatuvan julkiseen syntiin ja
+          pahuuteen, saakoon hän ensinnä varoituksen kirkkoherralta yksinänsä;
+          jos hän siitä ei ota ojentuaksensa, niin on varoitus kirkkoherran
+          uudistettava kahden tai kolmen vakaiseksi kristityksi tunnetun
+          seurakuntalaisen läsnä ollessa; jos ei sittenkään ojennusta tule,
+          antakoon kirkkoraati hänelle varoituksen koko seurakunnan nimessä.
+          Jos hän kuitenkin pysyy katumattomuudessansa, julistakoon silloin
+          kirkkoraati hänen menettäneeksi oikeuden olla kummina ja ottaa
+          osaa kirkollisiin vaaleihin sekä oikeuden itse tulla kirkollisiin
+          toimiin valituksi. Jos semmoisesta rangaistuksesta ja samalla
+          annetusta vakaasta varoituksesta, joka on
+        </p>
+        <pb facs="https://swerik-project.github.io/valtiopaivat-handlingar-pdf/1894/ask_1894__II-001-0036.pdf"/>
+        <p xml:id="i-DiumxKegqjADbbyGqeUwiU">
+          6 N:o 17.
+        </p>
+        <p xml:id="i-Kaaaz4R4TFrw2kT9tjEuKG">
+          suullisesti tai kirjallisesti syynalaisen tiedoksi saatettava,
+          parannusta ei seuraa, julistakoon kirkkoraati hänen toistaiseksi
+          menettäneeksi oikeutensa käydä Herran ehtoollisella. Jos hän luopuu
+          synnistänsä ja tunnustaa ja pyytää sen anteeksi erityisessä ripissä
+          sielunhoitajan edessä, antakoon kirkkoraati edellä mainitut edut
+          hänelle jälleen. Päätöksistä, joiden kautta kirkkoraati on poistuominnut
+          tai takaisinantanut sellaisia oikeuksia, pitää kirkkoherran tehdä
+          ilmoitus tuomiokapitulille.
+        </p>
+        <p xml:id="i-DPz31hAR4nMUwPVdjAumPa">
+          Jos kirkkoherran ja kirkkoraadin enemmistön välillä ilmestyy
+          eriäviä mielipiteitä, kun kysymyksessä on poissulkeminen pyhän
+          ehtoollisen nauttimisesta, jättäkäön kirkkoherra asian ynnä kirkkoraadin
+          pöytäkirjan sekä mitä muuten on asialle valaistukseksi tuomiokapitulille,
+          jonka tulee siitä antaa päätös.
+        </p>
+        <p xml:id="i-QtW4vfwXA7VGc9meWp1JTy">
+          Sillä, joka kirkkoraadin päätöksen kautta on julistettu menettäneeksi
+          jonkun yllämainituista kirkollisista oikeuksista, olkoon oikeus
+          tuomiokapitulissa päätöksestä tehdä valitus, joka on kirkkoherralle
+          annettava viimeistään viidentenätoista päivänä siitä päivästä
+          lukien, jona päätös annettiin hänelle tiedoksi; ollen kirkkoherra
+          velvollinen viipymättä lähettämään valituksen ynnä kirkkoraadin
+          pöytäkirjan ja lausunnon valituksesta tuomiokapituliin. Jos seurakunnan
+          jäsen kirkkoraadin päätöksen kautta, johon kirkkoherra on yhtynyt,
+          on julistettu menettäneeksi oikeutensa käydä Herran ehtoollisella,
+          älköön häntä, vaikka siitä on valituskin tehty, ehtoolliselle
+          päästettäkö, ennenkuin tuomiokapituli on asiassa antanut lausuntonsa.
+        </p>
+        <p xml:id="i-T5RMKnzxvyUbhpbdXyEPdm">
+          Tuomiokapitulin päätöksistä tässä mainituissa asioissa älköön
+          valitusta tektäkö.
+        </p>
+        <p xml:id="i-QrgrLEj3nYX2JBMfgvhV1k">
+          Jos joku, joka on kutsuttu saamaan semmoista varoitusta, kuin
+          tässä &amp;:ssä mainitaan, on saapuville tulematta, eikä osoita itsellään
+          olleen laillista estettä, käytettäköön häntä vastaan lähinnä seuraavaa
+          kurikeinoa.
+        </p>
+        <pb facs="https://swerik-project.github.io/valtiopaivat-handlingar-pdf/1894/ask_1894__II-001-0037.pdf"/>
+        <p xml:id="i-RSbbZtpF2bR3GMVHfG2pto">
+          N:o 17. 7
+        </p>
+        <p xml:id="i-PsT6wzu4qbRe3mbUtWbetL">
+          102 8.
+        </p>
+        <p xml:id="i-Dnfs6oCU2WFb5H7fGcAynb">
+          Jos vanhemmat eivät anna toimittaa lapsiansa kastet- "taviksi,
+          taikka jos joku seurakunnan jäsen tahallansa on "huolimaton hankkimaan
+          kristillistä kasvatusta ja opetusta -omille lapsillensa tahi niille,
+          jotka hänen hoidettavina ovat, niin meneteltäköön heitäkin kohtaan
+          niinkuin 101 $:ssä samottu on.
+        </p>
+        <p xml:id="i-8YnnEdSuGr8ecnUDtr4BCQ">
+          103 8.
+        </p>
+        <p xml:id="i-TpLQqEbHkXHJFZaAA7EBS8">
+          Jos seurakunnan jäsen tekee itsensä syylliseksi julkiseen Jumalan
+          sanan ja jumalisuuden harjoitusten ylenkat- -seesen, sellaiseen
+          tottelemattomuuteen kirkollista järjestystä vastaan, jonka kautta
+          osoittaa sen julkista ylenkatsetta, eripuraisuuteen avioliitossa,
+          tylyyteen lapsia, perhettä tahi muita alustalaisia kohtaan, ynseyteen
+          vanhemmillensa sekä leppymättömyyteen, olkoon laki sama kuin 101
+          $:ssä sanotaan.
+        </p>
+        <p xml:id="i-Si7tqVjRdJsZVg48Hqcg58">
+          104 $.
+        </p>
+        <p xml:id="i-7it2YuTEyEQiUTdTxKx9Ri">
+          Jos Suomen evankelis-lutherilaisen kirkon maallissäätyinen jäsen
+          pyytää muita vietellä väärään oppiin ja siten saattaa häiriötä
+          ja pahennusta seurakunnassa, tahi on nou- -dattamatta kirkkoraadin
+          kieltoa opetustoimen harjoittamista vastaan erityisissä hartaudenseuroissa,
+          ilmoittakoon kirkkoraati asian tuomiokapitulille.
+        </p>
+        <p xml:id="i-3W9VreS9tJyve2sgqwCwtq">
+          Jos sellainen ilmoitus on tapahtunut, kutsukoon tuomiokapituli
+          syytetyn eteensä, kuulustelkoon häntä ja varoittakoon häntä tahi
+          vaatikoon häneltä asiassa kirjallista selitystä ja toimituttakoon
+          hänelle kirjallisen varoituksen. Jos asianhaarat siihen aihetta
+          antavat, julistakoon tuomiokapituli hänet myöskin toistaiseksi
+          menettäneeksi oikeuden ottaa osaa kirkollisiin vaaleihin ja itse
+          tulla kirkollisiin toimiin valituksi, jättäköön myös sitte asian,
+          jos syytä siihen havaitaan, asianomaiseen hovioikeuteen. Jos syytetty
+          kutsumuksen saatuansa on saapuville tulematta tahi vaadittua kirjallista
+          selitystä antamatta, ryhtyköön tuomiokapituli, asian tutkittuaan,
+          viipymättä häntä vastaan niihin toimenpiteisin, kuin tässä on
+          sanottu.
+        </p>
+        <pb facs="https://swerik-project.github.io/valtiopaivat-handlingar-pdf/1894/ask_1894__II-001-0038.pdf"/>
+        <p xml:id="i-LQenL6dbw3EH8Z27tHh1LL">
+          8 N:o 17.
+        </p>
+        <p xml:id="i-Fa41CSKSuHRerVnzTPignt">
+          Jos maamme evankelis-lutherilaisen kirkon jäsen rikkoo mitä 33
+          &amp;:ssä on erityisen hartauskokouksen ajasta säädetty, eikä ole
+          jäsen samassa seurakunnassa, jossa rikos on tehty, ilmoitettakoon
+          myös, jos se tarpeelliseksi nähdään, asia tuomiokapitulille, jonka
+          tulee siinä menetellä niinkuin tässä pykälässä ylempänä on sanottu.
+        </p>
+        <p xml:id="i-P8kuPLmghvuit5qasjfu6u">
+          Jos syytetty kuuluu toiseen hiippakuntaan, kuin siihen, jonka
+          tuomiokapituliin ilmianto on tullut, lykättäköön asia ensinmainitun
+          hiippakunnan tuomiokapituliin.
+        </p>
+        <p xml:id="i-GGTKKtxETSNk86gjt4Ek4T">
+          Jos ulkomaalainen taikka se, joka ei kuulu lutherilaiseen kirkkoon,
+          on rikkonut sillä tapaa, kuin tässä pykä-- lässä sanotaan, antakoon
+          kirkkoraati, jos sen tarpeelliseksi näkee, myös siitä ilmoituksen
+          tuomiokapitulille, jonka tulee, jos asianhaarat sitä vaativat,
+          pyytää asianomaisen maallisen viranomaisen ryhtymistä tarpeellisiin
+          toimenpiteisin.
+        </p>
+        <p xml:id="i-McCXbTrZjmn9Cdxiu4xnjw">
+          106 $.
+        </p>
+        <p xml:id="i-5TnUZvggGrKtP8sxWBo4Xq">
+          Papinviran toimitettavia ovat julkinen jumalanpalvelus, pyhät
+          sakramentit ja muut kirkolliset toimitukset, jotka VI, VII, IX—XI
+          luvuissa nimitetyt ovat. Älköön kukaan toi-- mittako mitä näin
+          muodoin papinviran tehtäväksi kuuluu, jollei hän ole, niinkuin
+          tässä jälempänä sanotaan, virkaan. kelvolliseksi katsottu ja vihitty;
+          mutta hätätilassa olkoon. noudatettavana mitä siitä, kunkin asian
+          laadun mukaan, asetettu on. Hyviksitunnetuille ja -kristillismielisille
+          hengille saakoon kuitenkin pispa ja tuomiokapituli, koeteltuansa
+          heitä ensin, antaa toistaiseksi luvan saarnata ja käydä kristinopin
+          opettamiseen seurakunnassa osallisiksi. Ylioppilaisille, jotka
+          itseänsä saarnavirkaan valmistelevat, saavat myös. hirkkoherrrat
+          seurakunnissa antaa sellaisen luvan.
+        </p>
+        <p xml:id="i-Cg6kqSLMCfYHtpo1H8tRwN">
+          125 8. N Jos pappi ilman laillista estettä tahi syytä jättää
+          siinä. seurakunnassa, jossa hän virkaa toimittaa, virkansa toimi-.
+          tuksen tekemättä, kun seurakuntalainen taikka joku siellä. oleskeleva
+          vieraan seurakunnan jäsen häntä pyytää kastamaan lasta, antamaan
+          pyhää ehtoollista, oppimaan sairasta.
+        </p>
+        <pb facs="https://swerik-project.github.io/valtiopaivat-handlingar-pdf/1894/ask_1894__II-001-0039.pdf"/>
+        <p xml:id="i-PqXBjY9PSv5yJwHuUbk5wW">
+          N:o 17. 9
+        </p>
+        <p xml:id="i-XoJjZJD7cGVJcHSYXNnGxA">
+          tahi muuhun papilliseen toimitukseen, täikka ilman laillista
+          estettä laiminlyö jumalanpalveluksen pitämisen sunnuntaitai pyhäpäivänä;
+          rangaistakoon hän virkaerolla kolmesta kuukaudesta ajastaikaan
+          asti, asianhaarain mukaan.
+        </p>
+        <p xml:id="i-E9q1kygLtz2vRkukWN97si">
+          Jos pappi vihkii ennenkuin kuulutus asianomaisessa järjestyksessä
+          on tapahtunut, taikka sellaiset, joiden ei ole lupa mennä toistensa
+          kanssa avioliittoon, taikka antaa todistuksen esteettömyydestä
+          vihkimiseen, missä esteitä löytyy, ja hän teki sen tahallansa;
+          menettäköön virkansa. Jos se tapahtui varomattomuudesta tahi huolimattomuudesta,
+          tahi lieventäviä asianhaaroja muutoin on olemassa; rangaistakoon
+          hän virkaerolla kolmesta kuukaudesta ajastaikaan asti.
+        </p>
+        <p xml:id="i-3Yg3ZKk46XCQdoSeK5xBTn">
+          Jos pappi ottaa tahi tinkii itselleen lahjoja vääryyttä virassa
+          edistääksensä, pantakoon pois viralta. Jos hän muutoin virkatoimestansa
+          ehdottelee itselleen jonkun palkinnon tahi sivusaatavan, johon
+          hänellä ei ole oikeutta, rangaistakoon virkaerolla yhdestä kuukaudesta
+          kuuteen asti.
+        </p>
+        <p xml:id="i-VFi2EkUs4kexxLuzDX1VPT">
+          166 8.
+        </p>
+        <p xml:id="i-SApphBH1FN3sUYNq26Z6C1">
+          Kun vakinainen papinvirka seurakunnissa on avonaisena, pitää
+          tuomiokapitulin, siitä saatuansa ilmoituksen, tiedoksi pannulla
+          ja kolmasti Suomen virallisiin sanomalehtiin otetulla kuulutuksella
+          ilmoittaa avonaisuus ja määrätä kuudenkymmenen päivän aika, luettuna
+          sen päivän aamusta alkaen, jona päätös kuulutuksesta tehtiin,
+          jossa ajassa halulliset hakijat saavat ennen kello kahtatoista
+          puolenpäivän aikana tuomiokapituliin kirjallisesti antaa hakemuksensa
+          ja esille tuoda ne todistukset ja asiakirjat, joihin tahtovat
+          perustaa oikeutensa vaaliin päästä. Joka laiminlyö tämän ajan,
+          olkoon siksi kertaa puhevaltansa menettänyt.
+        </p>
+        <p xml:id="i-Se3WH6Txuf3wTcXQREigUL">
+          196 8.
+        </p>
+        <p xml:id="i-F2z9HRXBNV2jgkwKJVZYjZ">
+          Vaali käyköön, jos useampi kuin yksi on ehdolle pantu, vaalilistan
+          mukaan. Vaalilista on erittäin tätä tarvetta varten kirkonkokouksessa
+          nimitettäväin edusmiesten tehtävä. Se sisältäköön kaikki ne maatilat
+          ja toisen suojeluksesta vapaat perheet seurakunnassa, jotka papin
+          palkkaa maksavat;
+        </p>
+        <pb facs="https://swerik-project.github.io/valtiopaivat-handlingar-pdf/1894/ask_1894__II-001-0040.pdf"/>
+        <p xml:id="i-8ayAZrzYVJA525YbwNeQGe">
+          10 N:o 17.
+        </p>
+        <p xml:id="i-SYNaAwW5WZNWazbWu8JP5T">
+          sen määrän, millä kukin tila tahi perhe on osallinen mainitussa
+          maksossa, ja eri sarekkeen eli linjavälin jokaiselle vaalipapille
+          ja niille äänille, jotka hän saa.
+        </p>
+        <p xml:id="i-Kad7eQujkguaWfsHk9m4oV">
+          198 8.
+        </p>
+        <p xml:id="i-J9kvinBtoTv8MHxfZDQSSX">
+          Sinä päivänä, jona viimeinen vaalisaarna pidetään, kuulututtakoon
+          kirkkoherranviran toimittaja saarnastuolista kaikissa seurakuntaan
+          kuuluvissa kirkoissa, joissa silloin jumalanpalvelus pidetään,
+          että laillisesti määrätty toimitusmies on ensi sunnuntaina tuleva,
+          pöytäkirjaa varten otetun notarion kanssa, tapahtuvata vaalia
+          perustamaan, emäkirkossa taikka, missä kaupunki- ja maaseurakunnat
+          ovat yhdistettyinä, siinä kirkossa, jossa silloin vaali on pidettävä,
+          ja kysymään seurakunnalta, josko sillä on jotakin sanomista, joka
+          sitä voisi estää, sekä myöskin, kun esteitä ei ilmaannu, ja useampi
+          kuin yksi on ehdolle pantu, lukemaan ja tutkimaan vaalilistan.
+        </p>
+        <p xml:id="i-3UFpMfYszkfxCHPwXTExiE">
+          205 8.
+        </p>
+        <p xml:id="i-4obnFo9fWHHDcrdvprGKTe">
+          Kysymyspäivänä olkoon seurakunnalla lupa pyytää, jos tahtoo,
+          neljättä vaalisaarnaajaa: nimittäköön myös samalla sen papismiehen,
+          jonka neljänneksi tahtoo. Jos sellainen pyyntö on esitetty, niin
+          pitää esiinhuudolla kirkonkokouksen ääntölistan mukaan tutkittaman,
+          missä määrässä seurakunta pyyntöä kannattaa. Jos silloin esitettyä
+          pyyntöä puoltavain äänten yhteenlaskettu määrä on vähintäänkin
+          viides osa koko seurakunnan äänilukua eikä erimielisyyttä ilmaannu,
+          taikka jos seurakunnan jäsenistä niin monta on yhdistynyt samaa
+          papismiestä pyytämään, että heidän äänet yhteenlaskettuina tekevät
+          puolen taikka enemmän koko seurakunnan ääniluvusta, niin pysäytettäköön
+          toimitus ja pöytäkirja, sittenkun se on luettu ja hyväksytty,
+          lähetettäköön tuomiokapituliin, jonka tulee asiassa menetellä
+          niinkuin 241 8:ssä sanotaan.
+        </p>
+        <p xml:id="i-28NYSqxrmg8EtwCLSSEnFH">
+          207 8. Jos kysymyspäivänä ei ilmaannu vaalin pitämistä vastaan
+          sellaisia esteitä, jotka nyt nimitetyt ovat, ja vaan yksi
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

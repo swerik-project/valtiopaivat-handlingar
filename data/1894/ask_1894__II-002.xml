@@ -1,0 +1,676 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Finnish parliamentary document: ask 1894, None number II-002</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority>SWERIK Project, 2023-2027</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Finnish parliamentary document: ask 1894, None number II-002</title>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>No correction of source texts was performed.</p>
+        </correction>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div type="preface">
+        <head>ask_1894__II-002</head>
+        <docDate when="1894-01-01">1894-01-01</docDate>
+      </div>
+    </front>
+    <body>
+      <div>
+        <pb facs="https://swerik-project.github.io/valtiopaivat-handlingar-pdf/1894/ask_1894__II-002-0001.pdf"/>
+        <p xml:id="i-7QugmL7P8JhhGWfaVDq6d1">
+          N:o 17. 11
+        </p>
+        <p xml:id="i-3TxEbd1u5nEbxqTBiXws6x">
+          on ehdolle pantuna, ilmoittakoon vaalinpitäjä seurakunnalle,
+          että tämä pidetään valittuna ja antakoon osotuksen valituksien
+          tekemiseen niinkuin 232 $:ssä sanotaan. Sitte kun toimituksessa
+          tehty pöytäkirja on hyväksyttäväksi julkiluettu ja vaalinpitäjän,
+          vaalinotarion sekä kahden seurakunnan jäsenen allekirjoituksilla
+          varustettu, lähettäköön vaalinpitäjä sen tuomiokapituliin, ja
+          jättäköön kopian siitä sille, jonka hallussa kirkkoherran toimi
+          on, pidettäväksi seurakunnalle saatavana, niin kauvan, kuin valitusaika
+          on avoinna.
+        </p>
+        <p xml:id="i-H1RVa4u6GjoyPExkiAbo48">
+          Mutta jos useampi kuin yksi on vaaliehdolle pantu, niin luettakoon
+          ne tämän luvun $$, jotka ääntövallasta ja vaalipäivästä puhuvat,
+          eli alkaen 196 8:n alusta ja 230 $:n loppuun asti, ja sen jälkeen
+          otettakoon vaalilista tutkittavaksi muistutuksella seurakunnalle,
+          että silloin pitää ilmoitettaman kaikki ne muutokset, joihin syytä
+          löytyy.
+        </p>
+        <p xml:id="i-24VF4fuLyzftY76Xmv7PcW">
+          216 8.
+        </p>
+        <p xml:id="i-9LAZDZduGn6YXXFoPM4nyo">
+          Toimituksen kysymyspäivänä edellisessä pykälässä mainitulla tavalla
+          lopetettua, antakoon vaalinpitäjä seurakunnalle viimeksi tiedon:
+          että vaali tulee pidettäväksi neljäntenätoista päivänä kysymyspäivän
+          jälkeen ja että kysymyspäivän toimitukseen tyytymätön saa siitä
+          valittaa, sittenkuin vaali on ohitse, 232 :ssä määrätyssä järjestyksessä.
+          Kuulututtakoon myöskin vaalinpitäjä, seuraavana sunnuntaina, taas
+          vaalipäivän kaikissa niissä kirkoissa, joissa vaalisaarnat ja
+          kysymyspäivät ilmoitettavat olivat; ja pappi, joka kuulutuksen
+          julistaa, kirjoittakoon siihen päivän, minä se tapahtui.
+        </p>
+        <p xml:id="i-SqUPVkHWu6AzUPtoG7kxPe">
+          232 8.
+        </p>
+        <p xml:id="i-RmJJsjSCjD6yhibUMj99nM">
+          Vaalisaarnaaja tahi ääntövaltainen, joka kysymys- tahi vaalipäivän
+          toimitukseen ei tyydy, pankoon siitä valitukset asianomaiseen
+          tuomiokapituliin ennen kello kahtatoista kolmantenakymmenentenä
+          päivänä vaalipäivän jälkeen taikka, jos vaalitoimitus 207 8:n
+          mukaan jo kysymyspäivänä on loppuun saatettu, viimemainitun päivän
+          jälkeen, ja antakoon samalla tarkkaan ilmi sekä ne asiauhaarat,
+          joista luulee itsellänsä olevan valittamisen syytä, joko ne koskevat
+          haku-
+        </p>
+        <pb facs="https://swerik-project.github.io/valtiopaivat-handlingar-pdf/1894/ask_1894__II-002-0002.pdf"/>
+        <p xml:id="i-29eVzDq26d2YwX3tnfqvmS">
+          12 N:o 17.
+        </p>
+        <p xml:id="i-XyU3fjYz6JNPnoBpXpFKvU">
+          kumppania, vaalisaarnaajaa tahi vaalinpitäjää, taikka itse toimitusta,
+          tahi muuta luultua laittomuutta, että myöskin ne. todistajat tahi
+          todistukset, joihin hän valituksensa perustaa. Sama olkoon lakina,
+          jos hän tahtoo valittaa äänien keräilemisestä tahi laittomasta
+          palkkasuostumuksesta. Älköön niitä valituksia, joita muut kuin
+          ääntövaltainen tahi vaalisaarnaaja tekevät, eikä myöskään semmoisia
+          tahi niitä niiden osia, joissa ei ole suora osotus nyt sanotuista
+          asianhaaroista, lukuun otettako. Jos vaalinpitäjä itse havaitsee
+          jonkun laittomuuden tapahtuneeksi, joka voi asian lopulliseen
+          päätökseen vaikuttaa; antakoon siitä tiedon tuomiokapitulille,
+          joko silloin kuin vaalikirjat sinne lähettää, taikka viimeistäänkin
+          ennen valitusajan loppua.
+        </p>
+        <p xml:id="i-L7AYVvXGiq99joJfNwF34o">
+          242 $.
+        </p>
+        <p xml:id="i-N8cWvgXUkfJrDZEkFNuoLz">
+          Jos vaali on pidetty ja tullut lailliseen voimaan, ja joku vaalipapeista
+          siinä on saanut kolme neljäsosaa tahi enemmän vaalissa annetuista
+          äänistä, taikka jos vaalipappi, "joka yksinään on ehdolla ollut,
+          on valituksi julistettu ja se toimitus on lainvoiman saanut; antakoon
+          tuomiokapituli hänelle virkavahvistuskirjan, jos nimitysoikeus
+          virkaan on tuomiokapitulin. Jos tämä oikeus on Keisarin, menetelköön
+          tuomiokapituli niinkuin sellaisesta tapauksesta 243 &amp;:ssä määrätään.
+        </p>
+        <p xml:id="i-5gKGZKm9QnAvAhZebSzfDf">
+          243 8.
+        </p>
+        <p xml:id="i-BEBYeqT3URk3cskduDKeCH">
+          Jos vaalissa äänet ovat niin jakauneet, ettei kukaan vaalipapeista
+          ole saanut 242 &amp;:ssä mainittua ääntöenemmistöä, noudatettakoon
+          virkaanasettamisessa seuraavata järjestystä. Jos papintila kuuluu
+          niiden lukuun, joihin tuomiokapitulilla on nimittämisen oikeus,
+          ja jos seurakunnan anomuksesta neljäs vaalisaarnaaja on ollut
+          vaaliehdolle pantuna; antakoon tuomiokapituli virkavahvistuskirjan
+          sille muista vaalipapeista, joka enimmän ääniluvun vaalissa on
+          saanut; mutta jos neljättä vaalisaarnaajaa ei ole anottu taikka
+          annettu, saakoon se virkavahvistuskirjan, joka vaalissa sai enimmät
+          äänet. Jos tila kuuluu niiden lukuun, joihin Keisarilla on valta
+          nimittää, lähettäköön tuomiokapituli,
+        </p>
+        <pb facs="https://swerik-project.github.io/valtiopaivat-handlingar-pdf/1894/ask_1894__II-002-0003.pdf"/>
+        <p xml:id="i-CmUKQUPGsTBmRKybaEzZBw">
+          N:o 17. 13
+        </p>
+        <p xml:id="i-UhWRQxstCz6eF3yTSpqKzF">
+          olkoonpa neljättä vaalisaarnaajaa ollut vaalissa tahi ei, kertomuksen
+          siitä, miten vaali on päättynyt ja mitä siinä on tapahtunut, ilmoittaen
+          minkä verran kukin vaalipapeista on ääniä saanut; liittäköön siihen
+          myös vaalikirjat ja vaaliehdotuksen teossa kirjoitetun pöytäkirjan,
+          sekä vaaliin asetetuilta tulleet hakemukset ynnä liitekirjoinensa,
+          ja ilmoittakoon samalla, josko vaaliehdotusta on valitusten johdosta
+          jollakin muotoa muutettu; jonka jälkeen Keisari nimittää jonkun
+          vaalipapeista tähän avonaiseen virkaan.
+        </p>
+        <p xml:id="i-NY1wncAPoBG5ff6wXXXeqn">
+          394 $.
+        </p>
+        <p xml:id="i-UVgB9sQyWDvJ6LqhYJFdid">
+          Uskonnonasioissa, jotka eivät koske pappia, älköön tuomiokapituli
+          tuomitko, vaan menetelköön niinkuin 104 S:ssä sanottu on.
+        </p>
+        <p xml:id="i-4Zxw4YyGTq3yTSYZcT5NzQ">
+          Tutkittavina olleista uskonnonasioista lähettäköön tuomiokapituli
+          joka vuosi Senaattiin luettelon. Jos niitä ei ole ollut, annettakoon
+          siitä tieto.
+        </p>
+        <p xml:id="i-TsnJyrEU2sNULfvLbUuHY2">
+          450 $.
+        </p>
+        <p xml:id="i-FN9d1mrDrhZfULd9eAvfcU">
+          Yleiseen seurakuntakokoukseen kokoontukoon edusmiehiä Suomen
+          evankelis-lutherilaisen kirkon puolesta joka viidentenä vuonna.
+          Tammikuulla viidentenä vuonna viimeksi pidetystä kokouksesta tehköön
+          arkkipispa esityksen hallitukselle seurakuntakokouksen kokoontumispaikasta
+          ja -päivästä.
+        </p>
+        <p xml:id="i-HpwA6yVCgiZcWn86ouk4Rx">
+          Jos erinomaista syytä ilmestyy seurakuntakokouksen pitämiseen
+          aikaisemmin, kuin yllä on sanottu, määrätköön siitä hallitus tuomiokapitulin
+          esityksestä.
+        </p>
+        <p xml:id="i-BpgS88Q6MaJYwGnRcMQsD8">
+          456 $.
+        </p>
+        <p xml:id="i-jq6fURggcPW68GJadWJbx">
+          Kokouksen keskustelemuksissa saakoon kukin puhevuoron siinä järjestyksessä
+          kuin hän on puheenjohtajalle ilmoittanut tahtovansa puhua.
+        </p>
+        <p xml:id="i-Uu5YGzoWx962br68bZWea3">
+          Jos päätökseen tarvitaan äänestystä, pitää se, sittenkuin äänestyskysymys
+          on esitetty, suljetuilla lipuilla toimitettaman.
+        </p>
+        <p xml:id="i-SwyPZ6Lch26XJHpBmnzAhy">
+          &gt; Jos asia koskee kirkkolakia tahi sellaisia kirkollisia kirjoja,
+          kuin edellisessä $:ssä mainitaan, ja äänestyksellä on,
+        </p>
+        <pb facs="https://swerik-project.github.io/valtiopaivat-handlingar-pdf/1894/ask_1894__II-002-0004.pdf"/>
+        <p xml:id="i-BwwCHWfSKwrn8X6WLXRXxs">
+          14 N:o 17.
+        </p>
+        <p xml:id="i-VHpxzvBuibKDwzViqP6hsv">
+          mikäli seurakuntakokouksella on päätosvaltaa asiassa, lopullisesti
+          ratkaistava, pysytetäänkö voimassa oleva asia entisellään, vai
+          muutetaanko, niin vaaditaan, että vähintään kolmeneljättä osaa
+          annetuista äänistä puolustaa muutosta, ennenkuin se on katsottava
+          päätetyksi.
+        </p>
+        <p xml:id="i-SZs9P1gWuzzaGN1het8562">
+          Mutta jokaisessa muussa äänestyksessä, koskekoonpa se valmistelevaa
+          toimenpidettä mainitunlaisessa asiassa, tai valitsemista erilaisten
+          muutosehdotusten välillä lopullisen äänestyskysymyksen esittämistä
+          varten sellaisessa asiassa, tai jotakuta muuta seurakuntakokouksessa
+          ilmaantuvaa kysymystä, määrätään päätös yksinkertaisella äänten
+          enemmyydellä. Semmoisissa tapauksissa otettakoon ennen ääntölippuin
+          lukemista yksi niistä ja pantakoon sinetillä lukittuna erillensä;
+          jos muut äänet, luettuina yhteen, ovat tasan jakauneet, niin tämä
+          lippu avattakoon ja tehköön päätöksen; jos äänten enemmyys jo
+          on saatu, pitää erillensä pantu lippu avaamatta kohta hävitettämän.
+        </p>
+        <p xml:id="i-GcwXboDWMQMcx5zLiQnc9">
+          Armossa hyväksytty Pietarissa 12 p:nä Helmikuuta 1894.
+        </p>
+        <p xml:id="i-JkGckV5FnqprvoUH9134DB">
+          Ministeri-valtiosihteeri W. von DAEHN.
+        </p>
+        <p xml:id="i-9sVxGFkuNSva3dtAxFvM43">
+          Helsingissä, Keisarillisen Senaatin kirjapainossa, 1894.
+        </p>
+        <pb facs="https://swerik-project.github.io/valtiopaivat-handlingar-pdf/1894/ask_1894__II-002-0005.pdf"/>
+        <p xml:id="i-BnWksFJuGwj7qWz3pw1nGL">
+          V. M. — Esit. N:o 17.
+        </p>
+        <p xml:id="i-X1wobrr2NqcS4zs1sJ3qo">
+          Lakivaliokunnan mietintö N:o 9 Keisarillisen Majesteetin armollisen
+          esityksen johdosta, joka koskee muutoksia evankelis-lutherilaiselle
+          seura-
+        </p>
+        <p xml:id="i-EUpzoKUmYN62hifPC87rV5">
+          27 p:nä Marraskuuta (a kunnalle Suomessa ST Jouaksaa = 1908
+        </p>
+        <p xml:id="i-PHchdgBraLoct7NVi5z6R4">
+          armollisimmasti vahvistettuun ja 6 p:nä Joulukuuta 1869 annettuun
+          kirkkolakiin.
+        </p>
+        <p xml:id="i-VqNTEJTXcur8xqTW6md2cB">
+          Erityisillä Suomen toisessa yleisessä kirkolliskokouksessa v.
+          1886 tehdyillä päätöksillä antoi kirkolliskokous kirkkolain 455
+          S:n nojalla asettamalleen kirkkolakikomitealle toimeksi laatia
+          ehdotuksen muutoksiksi eräisiin kohtiin mainittua lakia. Sittenkun
+          komitea oli suorittanut tehtävänsä, lähetettiin sen tekemät lakiehdotukset
+          lausuntojen antamista varten eri hiippakuntien seurakunnille ja
+          papistoille sekä esitettiin sen jälkeen, annettujen lausuntojen
+          keralla, Turun kaupungissa Kesäkuussa v. 1893 kokoontuneelle Suomen
+          kolmannelle yleiselle kirkolliskokoukselle, joka, sittenkun kokouksen
+          asettama kirkkolakivaliokunta oli niitä valmistavasti tarkastanut,
+          erityisillä päätöksillä hyväksyi:
+        </p>
+        <p xml:id="i-VrurRcMbbLKZf1kMJ6K2vu">
+          (I) ehdotuksen sellaiseksi muutokseksi 65-8&amp;n c momenttiin, että
+          laissa luetellaan ne rikkomukset, joiden tähden rikkoneen on tehtävä
+          erityinen rippi;
+        </p>
+        <p xml:id="i-BULBmgWP2zM1NL9L6YKqLC">
+          (IT) ehdotuksen muutoksiksi 100, 101, 102, 103 ja
+        </p>
+        <p xml:id="i-ShHcmHfhC7n5d23g5rBR2Z">
+          104 &amp;:ssä oleviin määräyksiin kirkkokurista sekä tämän
+        </p>
+        <p xml:id="i-CAhF9qwbY88MMR8GAVh23z">
+          yhteydessä ehdotuksen muutokseksi 394 &amp;:ään, ja uudeksi momentiksi
+          65 S:ään;
+        </p>
+        <p xml:id="i-qBJR7yPcW9UVXDTDmMPKV">
+          Lakivaliokunnan mietintö N:o 9.
+        </p>
+        <pb facs="https://swerik-project.github.io/valtiopaivat-handlingar-pdf/1894/ask_1894__II-002-0006.pdf"/>
+        <p xml:id="i-DKjTR8uFbFVsQeY6VGGAse">
+          2 V. M. — Esit. N:o 17.
+        </p>
+        <p xml:id="i-5oYZDRkmy7x6jg4YP8eQAH">
+          (III) ehdotuksen vähäisemmäksi muutokseksi 106 S:n saarnalupaa
+          (venia concionandi) koskevaan säännökseen;
+        </p>
+        <p xml:id="i-EtHsFfyswiFfzHAmFSkivb">
+          (IV) ehdotuksen muutokseksi 125 &amp;:ssä olevaan määräykseen siitä
+          edesvastauksesta, mikä papilla on siinä mainituissa asioissa tekemästään
+          virkavirheestä;
+        </p>
+        <p xml:id="i-CYGBLpBnbWNvf9kKMVttEx">
+          (V) ehdotuksen sellaiseksi muodostukseksi 166 $:ään, jonka kautta
+          papinvirkojen hakemusaika lyhennetään ;
+        </p>
+        <p xml:id="i-HfDthSL8AC2VfmaBkQTKDD">
+          (VI) ehdotuksen muutoksiksi 207 &amp;:ssä sekä sen johdosta myöskin
+          196, 198, 216, 232 ja 242 &amp;:ssä oleviin määräyksiin siitä, miten
+          vaalin toimittamisessa on meneteltävä silloin, kun papinvirkaan
+          on ainoastaan yksi pantu ehdolle;
+        </p>
+        <p xml:id="i-PMLmXcZL8ZKWbAxjBggLVL">
+          (VII) ehdotuksen muutokseksi 205 S:ään, joka koskee neljännen
+          vaalisaarnaajan kutsumista:
+        </p>
+        <p xml:id="i-Qoz8ou28VjiF2TX9ADmny4">
+          (VIII) ehdotuksen muutoksiksi 243 &amp;:ssä oleviin määräyksiin,
+          jotka koskevat papin nimittämistä konsistoriaalisiin pappispaikkoihin
+          kun neljäs vaalisaarnaaja on ollut ehdolla;
+        </p>
+        <p xml:id="i-TjJ9shXX5azgX8hXgYZ6Mv">
+          (IX) ehdotuksen sellaiseksi muutokseksi 450 &amp;:ssä olevaan säännökseen,
+          että kirkolliskokouksia olisi pidettävä vähintään joka viides
+          vuosi; sekä
+        </p>
+        <p xml:id="i-G4FMpKuGwYUDsQopd3yyLY">
+          (X) ehdotuksen selvennykseksi 456 $:ssä oleviin määräyksiin äänestyksestä
+          kirkolliskokouksissa.
+        </p>
+        <p xml:id="i-RiDBG92VECUsrMFCz1wfVT">
+          Ja kun kirkolliskokous tämän johdosta oli erityisissä alamaisissa
+          kirjoituksissa Keisarilliselta Majesteetilta anonut ylempänä mainittujen
+          lainsäädäntöasiain loppuunsaattamissta kirkkolain 455 $:n määräämässä
+          järjestyksessä, on Keisarillinen Majesteetti esillä olevassa armollisessa
+          esityksessä, jonka kaikki säädyt ovat remissikeskustelua koskevain
+          pöytäkirjanotteiden kanssa lähettäneet Lakivaliokuntaan, mainitun
+          kirkkolain 8:n nojalla antanut Valtiosäätyjen käsiteltäväksi ylempänä
+          puheena olleet muutosehdotukset yhdistettyinä yhdeksi, kirkolliskokouksen
+          päätösten kanssa yhtäpitäväksi ehdotukseksi, joka sisältää muutoksia
+          edellä lueteltuihin kirkkolain $:iin.
+        </p>
+        <p xml:id="i-8Fbkm5qmVfXm4HUSkPVSui">
+          Kun Valiokunta nyt.ryhtyy antamaan lausuntoansa tästä asiasta,
+          on Valiokunta siihen katsoen, että Valtio-
+        </p>
+        <p xml:id="i-YU1h91bLFXFh4CofYccaEf">
+          Lakivaliokunnan mietintö N:o 9.
+        </p>
+        <pb facs="https://swerik-project.github.io/valtiopaivat-handlingar-pdf/1894/ask_1894__II-002-0007.pdf"/>
+        <p xml:id="i-BCr7B92oRaDacfxm7UjiKH">
+          V. M. — Esit. N:o 17. 3
+        </p>
+        <p xml:id="i-3NDwsiTZCB4k1F9mhL3bdQ">
+          säädyillä nyt on ensi kerran sen jälkeen kun nykyinen Kirkkolaki
+          tuli voimaan, käsiteltävänä kysymyksiä muutoksista tähän lakiin,
+          pitänyt velvollisuutenaan ensin lausua ajatuksensa sen oikeuden
+          laadusta, joka Valtiosäädyillä on tämänlajisissa lainsaätämisasioissa.
+        </p>
+        <p xml:id="i-UaFKwsbWTJDVjopLJFAoj8">
+          Ne Kirkkolain säännökset, jotka sisältävät tähän kuuluvia määräyksiä,
+          löytyvät tämän lain 14 ja 455 $:ssä. Ensinmainittu $ on pantuna
+          kolmanteen lukuun, jossa puhutaan seurakunnan järjestysmuodosta*,
+          ja kuuluu näin:
+        </p>
+        <p xml:id="i-BxSY6ErjQ2RcWUPAAdYHYu">
+          » Korkein kirkollishallitus koko maassa on Suomen esivallalla,
+          ja toimitetaan kuten siitä on erittäin säätty. Seurakunnalla itsellään
+          on oikeus, edusmiestensä kautta yleisessä seurakunta-kokouksessa,
+          esitellä lakia kaikessa, mikä koskee ainoasti seurakunnan omia
+          asioita; mutta yleisissä seurakunta-kokouksissa esiteltyin lakien
+          tutkinto ja vahvistus tulee Keisarille ja maan Säädylle valtiopäivillä.
+          Asioissa, jotka koskevat seurakunnan ja valtion taikka seurakunnan
+          ja muukalaisen uskokunnan keskinäisiä kohtia, antakoon yleinen
+          seurakunta-kokous aina lauseensa. Kaikki asiat, jotka yleisissä
+          seurakunta-kokouksissa päätettäviksi tulevat, ovat edeltäpäin
+          hiippakunnittain pidettävissä pappeinkokouksissa valmisteltavat*.
+        </p>
+        <p xml:id="i-4gt9NmYgWwyVVU4PfkJYsX">
+          455 $ taas kuuluu näin: Yleisen seurakunta-kokouksen tulee ehdotella
+          uuta kirkkolakia ja voimassa olevan muuttamista ja selittämistä,
+          jonka jälkeen seurakuntakokouksen ehdotus lähetetään Keisarin
+          ja Säätyin tutkittavaksi ja hyväksyttäväksi; ottaa seurattavaksi
+          uusi virsi- ja evankeliumikirja, käsikirja, katkismus ja raamatun-käännös;
+          antaa lauseita niihin kysymyksiin, jotka esivalta sille lähettää
+          ja jotka koskevat evankelis-lutherilaisen seurakunnan ja valtion
+          taikka mainitun seurakunnan ja muiden Suomessa olevain kristinuskoa
+          joko tunnustavain tahi tunnustamattomain uskokantain keskinäisiä
+          kohtia, kuin myös niin kutsutuista sekalais-asioista, sekä saattaa
+          esivallalle mainittuin laatuisissa kysymyksissä esityksiä ja toivotuksia.
+          Seurakunta-kokouksen
+        </p>
+        <p xml:id="i-ErGuQkcDgWdFGsqU3iNyz1">
+          Lakivaliokunnan mietintö N:o 9.
+        </p>
+        <pb facs="https://swerik-project.github.io/valtiopaivat-handlingar-pdf/1894/ask_1894__II-002-0008.pdf"/>
+        <p xml:id="i-HDty4XkV9xqffujaqYpR82">
+          4 V. M. — Esit. N:o 17.
+        </p>
+        <p xml:id="i-7RB4osy79sqLsbQrY58qxe">
+          tulee myös valita ne miehet, jotka valmistavat ehdotukset kirkkolain,
+          virsi- ja evankeliumikirjan, käsikirjan, katkismuksen ja raamatun-käännöksen
+          muutoksiin. Ennenkuin sellaiset ehdotukset pannaan seurakunta-kokouksessa
+          tarkasteltaviksi, antakoot seurakunnat ja papisto niistä lauseensa".
+        </p>
+        <p xml:id="i-TH5N5QFX2FKVuVLtjJMYaF">
+          Näistä säännöksista käy selvästi ilmi, että aloteoikeus kirkkolain
+          säätämiskysymyksissä on kirkolliskokouksella yksinään; mitään
+          lakiehdotusta, joka kuuluu kirkkolain alalle, ei siis voida valtiopäivillä
+          hyväksyä säätyesityksen eikä hallituksen tekemän alotteen nojalla,
+          ellei ehdotus ole kirkolliskokouksen valmistama. Tämän johdosta
+          on myöskin V. J:n 51 $:ssä, semmoisena kuin tämä lainpaikka on
+          13/,, p:nä Kesäkuuta 1886 annetussa Keisarillisessa Julistuksessa,
+          niihin määräyksiin, jotka koskevat Säätyjen esitysoikeutta valtiopäivillä,
+          tehty seuraava lisäsäännös! ,ja pitää kirkkolain säätämisestä
+          olla voimassa, mitä siitä erittäin on määrätty.*
+        </p>
+        <p xml:id="i-AZRTiEZtontypD5WYNty2k">
+          Mitä sitten tulee Valtiosäätyjen oikeuteen kirkolliskokouksen
+          hyväksymään ja armollisessa esityksessä heidän käsiteltäväkseen
+          annettuun ehdotukseen nähden, niin syntyy kysymys siitä, missä
+          määrin Valtiosäädyt ovat oikeutetut tekemään muutoksia ehdotukseen
+          ja sen jälkeen jättämään siten hyväksytyn, muutetun ehdotuksen
+          Keisarilliselle Majesteetille lakina ulosannettavaksi, jos Hänen
+          Majesteettinsa sen hyväksyy. Valiokunta on puolestansa sitä mieltä,
+          että Valtiosäädyillä ei ole valtaa hyväksyä muunlaista ehdotusta,
+          kuin minkä kirkolliskokous on tehnyt; Valiokunnan mielestä Valtiosäädyt
+          ainoastaan voivat joko hyväksyä sellaisen ehdotuksen tahi kieltäytyä
+          sitä tekemästä. Tosin kirkkolain säännökset eivät ole muodoltansa
+          niin selvät, kuin suotavaa olisi; osaksi riippuu tämä seikka niistä
+          muutoksista, joita alkuperäiseen kirkkolakiehdotukseen tehtiin
+          ennenkuin se annettiin Valtiosäätyjen käsiin. Mainitun ehdotuksen
+          vastaavassa säännöksessä sanottiin nimittäin että: , Valtaa lain
+          säätämiseen kaikissa, mitkä koskevat ainoasti seura-
+        </p>
+        <p xml:id="i-RNEuouhJnw4KnEUtsR1YC9">
+          Lakivaliokunnan mietintö N:o 9.
+        </p>
+        <pb facs="https://swerik-project.github.io/valtiopaivat-handlingar-pdf/1894/ask_1894__II-002-0009.pdf"/>
+        <p xml:id="i-BfvAPUVVGm8qV87zgeoaSz">
+          V. M. — Esit. N:o 17. 5
+        </p>
+        <p xml:id="i-LfAihESHSpuo2t45r8yA8t">
+          kunnan omia asioita, käyttää seurakunta itse, edusmiestensä kautta
+          yleisessä seurakuntakokouksessa; kuitenkin niin että seurakuntakouksessa
+          suostuttuin lakien vahvistus kuuluu valtakunnan hallitsialle*
+          (3 luvun 8 8). Ja kirkolliskokouksesta sanottiin (25 luvun 6 8):
+          ,, Yleisen seurakuntakokouksen asioita ovat: kirkkolain säätäminen,
+          muuttaminen ja selittäminen, kuitenkin niin että seurakunta-kokouksen
+          päätös on jätettävä esivallan tutkittavaksi ja hyveksittäväksi.'*
+          Mutta siitä epäselvyydestä huolimatta, joka ainakin ensi silmäyksellä
+          näyttää haittaavan kirkkolain tähän kuuluvia säännöksiä, käypi
+          14 ja 455 S:n sanamuodosta kuitenkin ilmi, ettei Valtiosäätyjen
+          asema kirkolliskokouksen hyväksymiin lakiehdotuksiin nähden ole
+          sama kuin niihin, jotka kuuluvat yhteiskunnallisen lainsäädännön
+          alalle; sillä 14 S:n mukaan kuuluu , ,seurakunta-kokouksissa esiteltyin
+          lakien tutkinto ja vahvistus Keisarille ja maan Säädyille valtiopäivillä'',
+          ja 455 &amp;:n mukaan on seurakunta-kokouksen ehdotus lähetettävä
+          Keisarin ja Säätyin tutkittavaksi ja hyväksyttäväksi, josta kaikesta
+          käy ilmi, ettei kirkolliskokousten ehdotuksia anneta maan Valtiosäätyjen
+          ja Hallitsijan käsiteltäväksi tavallisina lainsäätämisasioina,
+          vaan hyväksyttäväksi tahi vahvistettavaksi, ja ettei mitään muuta
+          ehdotusta, kuin kirkolliskokouksen, voida , hyväksyä" eikä , vahvistaa.
+          Jos siis Valtiosäädyt, sen ,tutkimisen'* nojalla, jonka he ovat
+          toimittaneet kirkolliskokouksen hyväksymään lakiehdotukseen nähden,
+          eivät katso voivansa hyväksyä jotakin osaa ehdotuksesta. täytyy
+          sen kokonaisuudessaan raueta Tämän mukaisesti Valiokunta myös
+          on sitä mieltä, että Valtiosäädyt eivät saa, jos hyväksyisivätkin
+          jonkun kirkolliskokouksen ehdotuksen pääasiassa, tehdä siihen
+          edes vähäisiäkään muutoksia, vaikkei niiden kautta ehdotus muuttuisikaan
+          varsinaisesti toiseksi kuin minkä kirkolliskokous on hyväksynyt.
+          Sellainen oikeus olisikin kovin epämääräinen ja siksi vaikea tarpeen
+          mukaisesti rajoittaa, ettei voi otaksua lainsäätäjän sitä tarkoittaneen.
+          Sitä vastoin Valiokunta toiselta
+        </p>
+        <p xml:id="i-6E1JTc9S1p4A7iR8aYu91s">
+          Lakivaliokunnan mietintö N:o 9.
+        </p>
+        <pb facs="https://swerik-project.github.io/valtiopaivat-handlingar-pdf/1894/ask_1894__II-002-0010.pdf"/>
+        <p xml:id="i-Ewy7NFkRhLmrqjSQw1DcCR">
+          6 V. M. — Esit. N:o 17.
+        </p>
+        <p xml:id="i-8oagwGuBmnomVgaiAoDbRq">
+          puolen ei voi yhtyä sellaiseen kirkkolain tulkitsemiseen, että
+          Valtiosäätyjen tarkastusvalta tämänlaatuisten lakiehdotusten suhteen
+          olisi periaatteellisesti supistettu paljaastaan sen kysymyksen
+          tutkimiseen, onko ehdotuksen hyväksymiselle olemassa estettä valtion
+          tahi yhteiskunnallisten lakien kannalta katsoen. Sellaisella Valtiosäätyjen
+          tutkimisvallan supistuksella, jota muuten olisikin mahdoton käytännössä
+          toteuttaa, ei ole mitään tukea kirkkolain sanamuodossa. Valiokunnan
+          mielestä Valtiosäädyillä siis on rajoittamaton tutkimisvalta tämänlaatuisissa
+          asioissa, vaikkei tutkimuksen tulokseksi lain mukaan voikaan tulla
+          muuta, kuin kirkolliskokouksen ehdotuksen täydellinen hyväksyminen
+          tahi hylkääminen.
+        </p>
+        <p xml:id="i-QSWudRW2YFg2sLXM2WNXbF">
+          Sillä, mitä ylempänä on lausuttu, ei ole kuitenkaan tahdottu
+          sanoa, että kaikkien edellä mainittujen, kirkolliskokouksen esittämäin
+          muutosehdotusten täytyisi täksi kertaa raueta elleivät valtiosäädyt
+          hyväksyisi kaikkia armollisessa esityksessä olevia &amp;:iä muuttamatta.
+          Kun kirkolliskous itse ei ole liittänyt päätöksiänsä kirkkolain
+          muutoksista yhdeksi ainoaksi ehdotukseksi, vaan on antanut monta,
+          toisistaan riipumatonta eri ehdotusta, niin on aivan ilmeistä
+          että, jos Valtiosäädyt katsoisivat olevan syytä kieltää hyväksymisensä
+          joltakulta tahi muutamilta edellä luetelluista &amp;:istä, ainoastaan
+          sen tahi niiden lakiehdotusten joissa nämä 8:n ovat, täytyisi
+          raueta, jota vastoin Valtiosäädyt voivat hyväksyä muut ehdotukset
+          ja jättää ne Keisarillisen Majosteetin vahvistettaviksi.
+        </p>
+        <p xml:id="i-AqyYgXxtFeT5GMXkr1Yfq7">
+          Ainoastaan 65 yn suhteen on tässä erityinen huomautus tarpeen.
+        </p>
+        <p xml:id="i-9MQ7qGeNxYD7xbPEBa1g64">
+          Koska 65 $:n c. momentti v. 1886 asetetun kirkkolakikomitean
+          ehdotuksen mukaan tuli saamaan entisestään melkoisesti laajennetun
+          sisällyksen, ja koska ei näyttänyt olevan sopivata pysyttää mainitussa
+          momentissa siinä nykyänsä olevaa määräystä niistä, jotka tuomiokapituli
+          julistaa Pyhältä ehtoolliselta ulossuljetuiksi, ja kun viimemainittuun
+          määräykseen näytti tarvitsevan tehdä lisäys niiden muutosten vuoksi,
+          joita oli ehdotettu kirk-
+        </p>
+        <p xml:id="i-XxTKtJJUgAmmQtTpkF6GX8">
+          Lakivaliokunnan mietintö N:o 9.
+        </p>
+        <pb facs="https://swerik-project.github.io/valtiopaivat-handlingar-pdf/1894/ask_1894__II-002-0011.pdf"/>
+        <p xml:id="i-QrBJMpVWAh4Kag8updbD9b">
+          V. M. — Esit. N:o 17. 7
+        </p>
+        <p xml:id="i-9GVTrd38sCcNqHdSibjTnz">
+          kokuria koskeviin säännöksiin, niin komitea ehdotti, että puheenalaiset
+          määräykset erotettaisiin eri momentiksi, jota sekä kirkkolakikomitea
+          että kirkolliskokous tämän johdosta käsitteli kirkkokuria koskevan
+          kysymyksen yhteydessä. Mutta kun kirkolliskokous 65 5:n uudelle
+          d) momentille antoi sellaisen muodon, että 65 $ kokonaisuudessaan
+          tuli aivan riippumattomaksi siitä, mitä kirkkokurista säädettäisiin,
+          niin on Valtiosäädyillä, siitä huolimatta että 65 S:n d momentti
+          on kirkolliskokouksen alamaisessa, kirjelmässä pantu yhteen kirkkokuria
+          koskevan luvun kanssa, kuitenkin kirkollisaokouksen päätöksen
+          johdosta ja sen tarkoituksen mukaan mikä tällä päätöksellä ilmeisesti
+          oli, vapaa valta joko hyväksyä 65 $ kokonaisuudessaan, samalla
+          jättäen hyväksymättä kirkkokuria koskevat muutosehdotukset, taikka
+          hyväksyä viimemainitut ja hyljätä 65 S:ään ehdotetut muutokset.
+        </p>
+        <p xml:id="i-GwJUCG8pYNevXgAZfZ46oX">
+          (1) Kun 19 p. Joulukuuta 1864 annetussa K. asetuksessa säädettiin,
+          ettei ketään pitänyt sen jälkeen tuomittaman kirkonrangaistukseen,
+          määrättiin samalla 2 ö:ssä ettei se, joka on tuomittu sellaisesta
+          rikoksesta, mistä ennen olisi pitänyt seurata joko julkinen tahi
+          yksityinen kirkonrangaistus, saa nauttia Herran ehtoollista, ennenkuin
+          on nöyrtynyt tekemään erityisen ripin ja siinä saanut synninpäästön.
+          Mutta koska 1869 vuoden K. L:n 65 S:n c. momenttiin tuli ainoastaan
+          se yleisin sanoin muodostettu määräys, että Pyhälle Ehtoolliselle
+          ei pitänyt päästettämän , niitä, jotka maallinen laki on rikoksesta
+          tuominnut, niin kauvan kuin eivät nöyrry erityistä rippiä tekemään'*,
+          niin on syntynyt epätietoisuutta siitä, ovatko vanhemmat säännökset
+          niistä rikoksista, joiden tähden erityinen rippi on tarpeen, vielä
+          voimassa vai ei. Juuri tämän johdosta onkin nyt ehdotettu, että
+          65 S:n c. momentti muutettaisiin toisin kuuluvaksi.
+        </p>
+        <p xml:id="i-TtURSTv6H3r9tyw33YuLQE">
+          Muutoin on tätä ehdotusta tehtäessä koetettu saada sille sellainen
+          muoto, että ne rikkomukset, jotka ennen ovat olleet kirkonrangaistuksen
+          alaiset, tulisivat kuulu-
+        </p>
+        <p xml:id="i-T4XBMbx7oG9wsmSMbuarE7">
+          Lakivaliokunnan mietintö N:v 9.
+        </p>
+        <pb facs="https://swerik-project.github.io/valtiopaivat-handlingar-pdf/1894/ask_1894__II-002-0012.pdf"/>
+        <p xml:id="i-5BVck8UcRRCLUTKCXpGmcs">
+          8 V. M. — Esit. N:o 17.
+        </p>
+        <p xml:id="i-FD9rULAh9zCqpLdBtongah">
+          maan niihin joita 65 $:ssä tarkoitetaan. Täydellistä yhdenmukaisuutta
+          ei ole kuitenkaan voitu saavuttaa, koska tätä asiaa koskeva lainsäädäntö
+          on myöhemmin julkaistujen lakien kautta saanut toisen sisällyksen
+          kuin mitä sillä oli siihen aikaan, jolloin kirkonrangaistusta
+          koskevat määräykset säädettiin. Eriäväisyydet ovat pääasiallisesti
+          siinä, että puheena oleva määräys on ulotettu koskemaan: kaikkia
+          niitä, jotka ovat tuomitut kuritushuonerangaistukseen, niitä jotka
+          ovat tuomitut edesvastaukseen suoraan ylenevässä polvessa olevan
+          sukulaisen tahallisesta pahoinpitelemisestä tahi hänen kunniansa
+          loukkaamisesta, naista, joka on synnyttänyt aviottoman lapsen,
+          vaikkei häntä olekaan siitä oikeudessa syytetty sekä sellaisen
+          naisen tunnettua makaajaa. Mutta koska, katsoen kaikkien ihmisellisten
+          säädösten vaillinaisuuteen, olisi mahdollista, että viattomasti
+          tuomittu saattaisi tulla poissuljetuksi Pyhältä Ehtoolliselta,
+          on kirkolliskokous katsonut tarpeelliseksi, että papille jätetään
+          joukun verran oikeutta säälittävissä tapauksissa poikkeuksittain
+          antaa Pyhää Ehtoollista ilman sellaista rippiä, jota muutoin on
+          vaadittu. Lopuksi on, kuten jo edellä viitattiin, niitä koskeva
+          säännös, jotka kirkkokuria koskevan XIII luvun määräysten mukaan
+          ovat julistetut Ehtoollisen nauttimisesta ulossuljetuiksi, erotettu
+          eri zaomentiksi d, jolle on annettu sellainen muoto, ettei se
+          tulisi olemaan riippuvainen siitä, mitä laki tulee kirkkokurista
+          säätämään.
+        </p>
+        <p xml:id="i-5i6uWWtMmZVTJ9YPSL2jCM">
+          Ehdotusta tarkastettaessa on Valiokunnassa huomau tettu epämukaisuutena
+          sitä, että kirkolliskokous, vaikka kysymyksenä oikeastaan oli
+          vain niiden rikosten määrääminen, joista voimassa olevan lain
+          mukaan pitäisi olla 65 &amp;:n c. momentissa mainittu seuraamus, on
+          ulotuttanut tämän seuraamuksen sellaisiinkin tapauksiin, joista
+          erityistä rippiä ei ole tähän asti ollut määrätty, niinkuin on
+          laita naisen, joka on synnyttänyt aviottoman lapsen, mutta jota
+          ei siitä ole oikeudessa syytetty. Paitsi sitä on sanoja , tunnettu
+          makaaja* pidetty niin epämääräisinä, että ne voisivat antaa aihetta
+          tarpeettomiin rettelöimisiin
+        </p>
+        <p xml:id="i-Vg4KDiNH8r2dWCEZMUiQpR">
+          Lakivaliokunnan mietintö N:o 9.
+        </p>
+        <pb facs="https://swerik-project.github.io/valtiopaivat-handlingar-pdf/1894/ask_1894__II-002-0013.pdf"/>
+        <p xml:id="i-BF2SYBfVyPKVM36yfMjM7b">
+          V. M. — Esit. N:o 17. 9
+        </p>
+        <p xml:id="i-Vb7GHiuoTQwDRVjtFfza8T">
+          papiston puolelta. -— Toiselta puolen on tähän vastattu että,
+          kun avioton lapsensynnyttäjä tähänkin asti or ollut pakotettu,
+          tahtoessansa nauttia Herran ehtoollista, käymään = erityisen ripin,
+          tästä periaatteesta luopuminen ehdottomasti herättäisi mitä suurinta
+          pahennusta (jota paitsi tähän asti käytetyllä tavalla on jonkun
+          verran tukea 43 $ kohdan 20 momentissa Knk. Selitystä 23 p:ltä
+          Maaliskuuta 1807); ja mitä taas makaajaan tulee, niin ei ole katsottu
+          voivan tulla kysymykseen, että pappi nyt nyt ehdotetun säännöksen
+          vuoksi kieltäisi Herran ehtoollisen makaajalta, joka ei ole tehnyt
+          erityistä rippiä, jos ei makaamista ole joko oikeudessa näytetty
+          toteen tahi makaaja itse ole sitä tunnustanut.
+        </p>
+        <p xml:id="i-YcLDijmXk1Yj6fW8dV46Jv">
+          Tämän johdosta, ja koska 65 &amp;:n c. momentissa oleva säännös kieltämättä
+          on niin yleisin sanoin muodostettu, että sen epäselvyydestä on
+          tuntuvia haittoja, on Valiokunta katsonut velvollisuudekseen puolustaa
+          tätä kohtaa kirkolliskokouksen ehdotuksessa hyväksyttäväksi, niistä
+          vähäisistä epämukaisuuksista huolimatta, joita siinä mahdollisesti
+          saattaa olla.
+        </p>
+        <p xml:id="i-Vi9NNCdMnajQLoPnS7ZSWf">
+          Ehdotetussa uudessa d) momentissa oleva loppusäännös, jonka mukaan
+          sielunpaimenella on oikeus, pakottavista syistä, antaa Herran
+          ehtoollinen sellaiselle, joka on julistettu ehtoolliselta poissuljetuksi,
+          mutta ei ole saanut takaisin oikeuttansa sen nauttimiseen, sisältää
+          tosin muutoksen niihin periaatteisiin, jotka kirkkokurin alalla
+          ovat voimassa; mutta jos Valtiosäädyt hyväksyvät sen jokseenkin
+          samanlaatuisen säännöksen, joka on otettu c. momenttiin, niin
+          voitanee myöskin puheena oleva säännös hyväksyä yhtäläisistä syistä.
+          Valiokunta siis puolustaa sitä, että Valtiosäädyt kyväksyisivät
+          ehdotuksen muutoksiksi K. L:n 65 $:ään.
+        </p>
+        <p xml:id="i-JuNX4exbDDJBdCwbiL71FH">
+          (IL) Ne muutokset, joita on ehdotettu 100, 101, 102, 103, 104
+          ja 394 S:ään, koskevat kirkkokuria. Kysymys tähän kuuluvien määräysten
+          muuttamisesta on ollut esillä kaikissa niissä kirkolliskokouksissa,
+          Lakivaliokunnan mietintö N.o 9.
+        </p>
+        <pb facs="https://swerik-project.github.io/valtiopaivat-handlingar-pdf/1894/ask_1894__II-002-0014.pdf"/>
+        <p xml:id="i-SChAVHGpRz2Ath2PauWwtr">
+          10 V. M. — Esit. N:o 17.
+        </p>
+        <p xml:id="i-MSHLpxeBztR7YF8FJZ5DXR">
+          joita on pidetty sitten kun uusi kirkkolaki tuli noudatettavaksi.
+          1876 vuoden kirkolliskokouksessa hyväksyttiin sellainen ehdotus,
+          että kirkkolain XIII luku pantaisiin tarkastuksen alaiseksi, 44
+          äänellä 68:sta, jotka kaikkiansa annettiin. Mutta koska tässä
+          kohden silloin noudatettiin sitä periaatetta, josta sittemmin
+          on luovuttu, nimittäin että myöskin valmistavia toimenpiteitä
+          varten tarvitseisi olla 3/,:n enemmistö päätöstä puolustamassa,
+          niin asia sillä kertaa raukesi. 1886 vuoden kirkolliskokouksessa
+          hyväksyttiin yksimielisesti se mielipide, että puheena oleva luku
+          oli uudesta-muodostamisen tarpeessa, jota vastoin eriäviä mielipiteitä
+          lausuttiin siitä, millaisia tehtävien muutosten pitäisi olla,
+          jonka vuoksi asia lykättiin kirkkolakikomiteaan, joka silloin
+          muitakin kysymyksiä varten asetettiin, mutta komitealle ei kuitenkaan
+          annettu mitään läherapiä määräyksiä siitä, mihin suuntaan muu
+          toksien piti mennä. Se ehdotus muutoksiksi kirkkolain määräyksiin
+          kirkkokurista, joka nyt on Valtiosäätyjen tutkittavana, saavutti
+          1893 vuoden kirkolliskokouksessa yksimielisen hyväksymisen ei
+          ainoastaan kokouksen asettamassa kirkkolakivaliokunnassa, vaan
+          myöskin itse kokouksen puolelta kokonaisuudessaan.
+        </p>
+        <p xml:id="i-N9iE3YLSvFW7DB5EooFTrM">
+          101 &amp;:n mukaan pidetään kirkkokuria siten, että seurakunnan jäsenelle
+          antaa varotuksen ensin kirkkoherra yksinänsä, sen jälkeen kirkkoherra
+          kahden tahi kolmen seurakuntalaisen läsnä ollessa, ja vihdoin
+          kirkkoraati seurakunnan nimessä. Jos ei tästä parannusta seuraa,
+          saa kirkkoraati julistaa sellaisen henkilön menettäneeksi oikeuden
+          olla kummina, valita jäseniä kirkkoraatiin, edusmiehiä yleiseen
+          seurakunta-(kirkollis-) kokoukseen ja niiden valitsijoita sekä
+          oikeuden itse tulla valituksi mainittuihin toimituksiin; kuitenkin
+          pitää kirkkoraadin tästä tekemä päätös annettaman tuomiokapitulin
+          tutkittavaksi. Tuomiokapitulin tulee sitten, jos se asiata tutkiessansa
+          näkee olevan siihen syytä, kutsua erhettynyt eteensä ja antaa
+          hänelle vakaa varoitus, ja jos hän ei vieläkään näytä parannusta,
+          saa tuomiokapituli mää-
+        </p>
+        <p xml:id="i-3zfdGzRtBFZCP6Ds2TSMJq">
+          Lakivaliokunnan mietintö N:o 9.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
